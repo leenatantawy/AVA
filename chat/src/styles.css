@@ -31,7 +31,9 @@ body {
 
 .chat-area .chat-bubble.current-user {
   margin-left: auto;
-  background-color: #a5d6a7;
+  background-color: #ffffff;
+  color: black;
+  font-weight: 'bold'
 }
 
 .form-control {

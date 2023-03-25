@@ -52,7 +52,8 @@ export default class Chat extends Component {
       await db.ref("chats").push({
         content: this.state.content,
         timestamp: Date.now(),
-        uid: this.state.user.uid
+        uid: this.state.user.uid,
+        type: 'prompt'
       });
       this.setState({ content: '' });
       chatArea.scrollBy(0, chatArea.scrollHeight);
@@ -67,6 +68,14 @@ export default class Chat extends Component {
     return time;
   }
 
+  filterItems (data, field, value) {
+    if (field != null) {
+      return data.filter((item) => {
+        return item[field] === value;
+      })
+    }
+  }
+
   render() {
     return (
       <div>
@@ -78,7 +87,7 @@ export default class Chat extends Component {
             <span className="sr-only">Loading...</span>
           </div> : ""}
           {/* chat area */}
-          {this.state.chats.map(chat => {
+          {this.state.chats.filter(chat => {return chat.uid == this.state.user.uid}).map(chat => {
             return <p key={chat.timestamp} className={"chat-bubble " + (this.state.user.uid === chat.uid ? "current-user" : "")}>
               {chat.content}
               <br />
