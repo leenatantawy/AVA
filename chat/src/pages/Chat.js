@@ -44,18 +44,60 @@ export default class Chat extends Component {
     });
   }
 
+  
+  async callOpenAIAPI(prompt) {
+    console.log("Calling the OpenAI API");
+    
+    const APIBody = {
+      "model": "davinci:ft-personal-2023-03-21-14-31-01",
+      "prompt": prompt,
+      "temperature": 0,
+      "max_tokens": 60,
+      "top_p": 1.0,
+      "frequency_penalty": 0.0,
+      "presence_penalty": 0.0
+    }
+
+  await fetch("https://api.openai.com/v1/completions", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + "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"
+      },
+      body: JSON.stringify(APIBody)
+    }).then((response) => {
+      if (!response.ok) {
+        throw new Error("HTTP error " + response.status);
+      }
+      return response.json();
+    }).then((data) => {
+      window.alert(data.choices[0].text);
+      console.log(data.choices[0].text);
+    }).catch((error) => {
+      console.error(error);
+    });
+    
+  }
+
+
+  /* call API when prompt is submitted*/
   async handleSubmit(event) {
     event.preventDefault();
     this.setState({ writeError: null });
     const chatArea = this.myRef.current;
     try {
-      await db.ref("chats").push({
+        db.ref("chats").push({
         content: this.state.content,
         timestamp: Date.now(),
         uid: this.state.user.uid,
         type: 'prompt'
       });
+
+      await this.callOpenAIAPI(this.state.content)
+    
       this.setState({ content: '' });
+      console.log('cleared content');
+
       chatArea.scrollBy(0, chatArea.scrollHeight);
     } catch (error) {
       this.setState({ writeError: error.message });
@@ -87,7 +129,7 @@ export default class Chat extends Component {
             <span className="sr-only">Loading...</span>
           </div> : ""}
           {/* chat area */}
-          {this.state.chats.filter(chat => {return chat.uid == this.state.user.uid}).map(chat => {
+          {this.state.chats.filter(chat => {return chat.uid === this.state.user.uid}).map(chat => {
             return <p key={chat.timestamp} className={"chat-bubble " + (this.state.user.uid === chat.uid ? "current-user" : "")}>
               {chat.content}
               <br />
