@@ -57,7 +57,9 @@ body {
   background-color: #880d0d;
   color: white;
 }
-
+.jumbotron1{
+  background-image: url("Hero-uchicago-campus.jpeg");
+}
 @media screen and (max-width: 767px) {
   .form-control {
     width: 100%;
