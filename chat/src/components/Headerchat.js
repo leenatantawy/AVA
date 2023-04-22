@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { auth } from '../services/firebase';
 import './styles.css'
 
-function Header() {
+function Headerchat() {
   return (
     <header>
       <nav className="navbar navbar-expand-sm fixed-top navbar-light bg-uchicago">
@@ -17,8 +17,7 @@ function Header() {
               <button className="btn btn-primary mr-3" onClick={() => auth().signOut()}>Logout</button>
             </div>
             : <div className="navbar-nav">
-              <Link className="nav-item nav-link mr-3 bg-white" to="/login">Sign In</Link>
-              <Link className="nav-item nav-link mr-3 bg-white" to="/signup">Sign Up</Link>
+              <Link className="nav-item nav-link mr-3 bg-white" to="/logout">Logout</Link>
             </div>}
         </div>
       </nav>
@@ -26,5 +25,5 @@ function Header() {
   );
 }
 
-export default Header;
+export default Headerchat;
 

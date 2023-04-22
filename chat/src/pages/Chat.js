@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import Header from "../components/Header";
+import Headerchat from "../components/Headerchat";
+import Footer from '../components/Footer';
 import { auth } from "../services/firebase";
 import { db } from "../services/firebase";
 
@@ -121,9 +122,8 @@ export default class Chat extends Component {
   render() {
     return (
       <div>
-
-        
         <div className="chat-area" ref={this.myRef}>
+        <Headerchat></Headerchat>
           {/* loading indicator */}
           {this.state.loadingChats ? <div className="spinner-border text-success" role="status">
             <span className="sr-only">Loading...</span>
@@ -145,6 +145,7 @@ export default class Chat extends Component {
         <div className="py-5 mx-3">
           Login in as: <strong className="text-info">{this.state.user.email}</strong>
         </div>
+        <Footer></Footer>
       </div>
     );
   }
