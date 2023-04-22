@@ -10,15 +10,9 @@ body {
 }
 
 .imageback{
-  background: url("Campus_Aerial_2-min.png");
-  opacity: 1;
-    /* Full height */
-  height: 100%;
-  max-width: 100%;
-    /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  object-fit: cover;
+  background-image: url("image5.png");
+  position: static;
+
 }
 
 .chat-area {
@@ -77,8 +71,9 @@ body {
 
 .jumbotron{
   background-color: transparent;
-  color: white;
-  text-shadow: 2px 4px 4px rgba(255,255,255,0.8);
+  opacity: 1;
+  color: black;
+  text-shadow: 2px 4px 4px rgba(255,255,255,0.6);
 }
 
 @media screen and (max-width: 767px) {
