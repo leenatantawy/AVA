@@ -12,6 +12,9 @@ body {
 .imageback{
   background-image: url("image5.png");
   position: static;
+  border:#757575;
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
