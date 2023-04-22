@@ -15,6 +15,7 @@ body {
   border:#757575;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: darken;
 
 }
 
@@ -25,7 +26,7 @@ body {
 }
 
 .chat-area .chat-bubble {
-  background-color: #bbdefb;
+  background-color: white;
   padding: 20px;
   border-radius: 4px;
   max-width: 300px;
@@ -42,7 +43,7 @@ body {
   margin-left: auto;
   background-color: #ffffff;
   color: black;
-  font-weight: 'bold'
+  font-weight: 'bold';
 }
 
 .form-control {
@@ -77,6 +78,18 @@ body {
   opacity: 1;
   color: black;
   text-shadow: 2px 4px 4px rgba(255,255,255,0.6);
+}
+
+.py-6{
+  color: black;
+  max-width: 100%;
+  text-emphasis-color: black;
+
+}
+
+.text-info{
+  color: black;
+  text-shadow: rgba(255,255,255,0.6)
 }
 
 @media screen and (max-width: 767px) {
