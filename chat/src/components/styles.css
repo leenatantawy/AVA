@@ -16,13 +16,15 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: darken;
+  min-height: 100%;
 
 }
 
 .chat-area {
   padding: 20px;
-  height: 400px;
+  height: 100%;
   overflow-y: scroll;
+  border-bottom:1cm;
 }
 
 .chat-area .chat-bubble {
@@ -72,7 +74,10 @@ body {
   color: white;
 }
 
-
+.chat{
+  border-bottom: 1cm;
+  border-color: blue;
+}
 .jumbotron{
   background-color: transparent;
   opacity: 1;
