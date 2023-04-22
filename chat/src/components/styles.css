@@ -58,6 +58,7 @@ body {
 
 .btn {
   margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .btn-submit {
@@ -110,9 +111,10 @@ body {
   color:white;
   background-color:#880d0d;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 100%) {
   .form-control {
     width: 100%;
+    margin: collapse;
   }
 
   .chat-area .chat-bubble {
