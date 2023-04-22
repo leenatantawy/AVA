@@ -61,10 +61,10 @@
     width: 625px;
 }
 .home-h-1 {
-    color:#ffffff;
+    color:#000000;
     font-family: "Inter", Helvetica;
     font-size: 60px ;
-    font-weight: 400 ;
+    font-weight: 700 ;
     left: 61px;
     letter-spacing: 0;
     line-height: normal;
@@ -168,7 +168,7 @@
     background-color:#ffffff0a;
     border-radius: 120px;
     box-shadow: 0px 4px 4px #00000040;
-    height: 595px;
+    height: 564px;
     left: 552px;
     overflow: hidden;
     position: absolute;
