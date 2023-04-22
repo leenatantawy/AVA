@@ -59,7 +59,7 @@ export default class Login extends Component {
           <h1>
             Login to
             <Link className="title ml-2" to="/">
-            AVA
+              Chatty
             </Link>
           </h1>
           <p className="lead">
