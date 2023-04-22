@@ -9,6 +9,18 @@ body {
   margin-top: 60px;
 }
 
+.imageback{
+  background: url("Campus_Aerial_2-min.png");
+  opacity: 1;
+    /* Full height */
+  height: 100%;
+  max-width: 100%;
+    /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
 .chat-area {
   padding: 20px;
   height: 400px;
@@ -60,6 +72,31 @@ body {
 
 .navbar-light .navbar-brand {
   color: white;
+}
+
+.home > .container {
+  position: relative;
+  background-color: transparent;
+  background-size: cover;
+}
+
+.container > .text{
+  position: absolute;
+  top: 20%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  z-index: 1;
+}
+
+.jumbotron > .text {
+  position: relative;
+  z-index: 2;
+}
+
+.jumbotron{
+  background-color: transparent;
 }
 
 @media screen and (max-width: 767px) {

@@ -12,14 +12,10 @@ function Header() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-          {auth().currentUser
-            ? <div className="navbar-nav">
-              <button className="btn btn-primary mr-3" onClick={() => auth().signOut()}>Logout</button>
-            </div>
-            : <div className="navbar-nav">
+            <div className="navbar-nav">
               <Link className="nav-item nav-link mr-3 bg-white" to="/login">Sign In</Link>
               <Link className="nav-item nav-link mr-3 bg-white" to="/signup">Sign Up</Link>
-            </div>}
+            </div>
         </div>
       </nav>
     </header>

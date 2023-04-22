@@ -9,15 +9,16 @@ export default class HomePage extends Component {
     return (
       <div className="home">
         <Header></Header>
-        <section>
-          <img className={"home-image"} src={"Hero-uchicago-campus.jpeg"} />
-          <div className="jumbotron jumbotron-fluid py-5">
-            <div className="container text-center py-5">
-              <h1 className="display-4">Welcome to AVA</h1>
-              <p className="lead">Get your questions answered within seconds!</p>
-            </div>
-          </div>
-        </section>
+        <div className="imageback">
+          <section>
+              <div className="jumbotron jumbotron-fluid py-5">
+                    <div className="container text-center py-5">
+                      <h1 className="display-4">Welcome to AVA</h1>
+                      <p className="lead">Get your questions answered within seconds!</p>
+                    </div>
+              </div>
+          </section>
+        </div>
         <Footer></Footer>
       </div>
     )
