@@ -1,0 +1,188 @@
+CMSC 14100  Introduction to Computer Science I
+CMSC 14200  Introduction to Computer Science II
+CMSC 14300  Systems Programming I
+CMSC 14400  Systems Programming II
+CMSC 14100  Introduction to Computer Science I
+CMSC 14200  Introduction to Computer Science II
+CMSC 14100  Introduction to Computer Science I upon successfully completing CMSC 14200  Introduction to Computer Science II
+CMSC 14100  Introduction to Computer Science I and CMSC 14200  Introduction to Computer Science II upon successfully completing CMSC 14300  Systems Programming I
+CMSC 14100  Introduction to Computer Science I and CMSC 14200  Introduction to Computer Science II upon passing CMSC 14400  Systems Programming II
+CMSC 14100 Introduction to Computer Science I100
+CMSC 14200 Introduction to Computer Science II100
+CMSC 14300 Systems Programming I100
+CMSC 14400 Systems Programming II100
+CMSC 22001 Software Construction
+CMSC 22100 Programming Languages
+CMSC 22200 Computer Architecture *
+CMSC 22240 Computer Architecture for Scientists *
+CMSC 22300 Functional Programming
+CMSC 22500 Type Theory
+CMSC 22600 Compilers for Computer Languages
+CMSC 23000 Operating Systems
+CMSC 23010 Parallel Computing
+CMSC 23200 Introduction to Computer Security
+CMSC 23230 Engineering Interactive Electronics onto Printed Circuit Boards
+CMSC 23300 Networks and Distributed Systems
+CMSC 23310 Advanced Distributed Systems
+CMSC 23320 Foundations of Computer Networks
+CMSC 23360 Advanced Networks
+CMSC 23400 Mobile Computing
+CMSC 23500 Introduction to Database Systems
+CMSC 23700 Introduction to Computer Graphics
+CMSC 23710 Scientific Visualization
+CMSC 27100 Discrete Mathematics
+CMSC 27130 Honors Discrete Mathematics
+CMSC 27200 Theory of Algorithms
+CMSC 27230 Honors Theory of Algorithms
+CMSC 27410 Honors Combinatorics
+CMSC 27500 Graph Theory
+CMSC 27502 Advanced Algorithms
+CMSC 27530 Honors Graph Theory
+CMSC 27700 Mathematical Logic I
+CMSC 27800 Mathematical Logic II
+CMSC 28000 Introduction to Formal Languages
+CMSC 28100 Introduction to Complexity Theory
+CMSC 28130 Honors Introduction to Complexity Theory
+CMSC 28400 Introduction to Cryptography
+CMSC 23206  Security, Privacy, and Consumer Protection
+CMSC 23210  Usable Security and Privacy
+CMSC 25910  Engineering for Ethics, Privacy, and Fairness in Computer Systems
+CMSC 22200  Computer Architecture
+CMSC 22240  Computer Architecture for Scientists
+CMSC 23000  Operating Systems
+CMSC 23010  Parallel Computing
+CMSC 23310  Advanced Distributed Systems
+CMSC 23320  Foundations of Computer Networks
+CMSC 23500  Introduction to Database Systems
+CMSC 23530  Advanced Database Systems
+CMSC 25422  Machine Learning for Computer Systems
+CMSC 23900  Data Visualization
+CMSC 25025  Machine Learning and Large-Scale Data Analysis
+CMSC 25300  Mathematical Foundations of Machine Learning
+CMSC 25400  Machine Learning
+CMSC 20380  Actuated User Interfaces and Technology
+CMSC 23230  Engineering Interactive Electronics onto Printed Circuit Boards
+CMSC 25025  Machine Learning and Large-Scale Data Analysis
+CMSC 25040  Introduction to Computer Vision
+CMSC 25300  Mathematical Foundations of Machine Learning
+CMSC 25400  Machine Learning
+CMSC 25440  Machine Learning in Medicine
+CMSC 25460  Introduction to Optimization
+CMSC 25500  Introduction to Neural Networks
+CMSC 25700  Natural Language Processing
+CMSC 22100  Programming Languages
+CMSC 22300  Functional Programming
+CMSC 22400  Programming Proofs
+CMSC 22500  Type Theory
+CMSC 22600  Compilers for Computer Languages
+CMSC 27410  Honors Combinatorics
+CMSC 27500  Graph Theory
+CMSC 27502  Advanced Algorithms
+CMSC 27530  Honors Graph Theory
+CMSC 27700  Mathematical Logic I
+CMSC 27800  Mathematical Logic II
+CMSC 28000  Introduction to Formal Languages
+CMSC 28100  Introduction to Complexity Theory
+CMSC 28130  Honors Introduction to Complexity Theory
+CMSC 28400  Introduction to Cryptography
+CMSC 14100 Introduction to Computer Science I100
+CMSC 14200 Introduction to Computer Science II100
+CMSC 14300 Systems Programming I *100
+CMSC 14400 Systems Programming II *100
+CMSC 11000   Multimedia Programming as an Interdisciplinary Art I  
+CMSC 11111   Creative Coding  
+CMSC 11710   Networks  
+CMSC 11800   Introduction to Data Science I  
+CMSC 11900   Introduction to Data Science II  
+CMSC 12100 -12200 -12300   Computer Science with Applications I-II-III
+CMSC 12100   Computer Science with Applications I  
+CMSC 12200   Computer Science with Applications II  
+CMSC 12300   Computer Science with Applications III  
+CMSC 13600   Introduction to Data Engineering  
+CMSC 14100   Introduction to Computer Science I  
+CMSC 14200   Introduction to Computer Science II  
+CMSC 14300   Systems Programming I  
+CMSC 14400   Systems Programming II  
+CMSC 15100 -15200   Introduction to Computer Science I-II
+CMSC 15100   Introduction to Computer Science I  
+CMSC 15200   Introduction to Computer Science II  
+CMSC 15400   Introduction to Computer Systems  
+CMSC 16100 -16200   Honors Introduction to Computer Science I-II
+CMSC 16100   Honors Introduction to Computer Science I  
+CMSC 16200   Honors Introduction to Computer Science II  
+CMSC 19911   Introduction to Creative Coding  
+CMSC 20300   Introduction to Human-Computer Interaction  
+CMSC 20370   Inclusive Technology: Designing for Underserved and Marginalized Populations  
+CMSC 20380   Actuated User Interfaces and Technology  
+CMSC 20600   Introduction to Robotics  
+CMSC 20900   Computers for Learning  
+CMSC 21010   Mathematical Foundations  
+CMSC 21400   Creative Machines and Innovative Instrumentation  
+CMSC 21800   Data Science for Computer Scientists  
+CMSC 22000   Introduction to Software Development  
+CMSC 22001   Software Construction  
+CMSC 22010   Digital Fabrication  
+CMSC 22100   Programming Languages  
+CMSC 22200   Computer Architecture  
+CMSC 22240   Computer Architecture for Scientists  
+CMSC 22300   Functional Programming  
+CMSC 22400   Programming Proofs  
+CMSC 22450   Foundations of Programming Languages  
+CMSC 22500   Type Theory  
+CMSC 22600   Compilers for Computer Languages  
+CMSC 22880   Introduction to Quantum Computing  
+CMSC 22900   Quantum Computer Systems  
+CMSC 23000   Operating Systems  
+CMSC 23010   Parallel Computing  
+CMSC 23200   Introduction to Computer Security  
+CMSC 23206   Security, Privacy, and Consumer Protection  
+CMSC 23210   Usable Security and Privacy  
+CMSC 23218   Surveillance Aesthetics: Provocations About Privacy and Security in the Digital Age  
+CMSC 23220   Inventing, Engineering and Understanding Interactive Devices  
+CMSC 23230   Engineering Interactive Electronics onto Printed Circuit Boards  
+CMSC 23240   Emergent Interface Technologies  
+CMSC 23300   Networks and Distributed Systems  
+CMSC 23310   Advanced Distributed Systems  
+CMSC 23320   Foundations of Computer Networks  
+CMSC 23360   Advanced Networks  
+CMSC 23400   Mobile Computing  
+CMSC 23500   Introduction to Database Systems  
+CMSC 23530   Advanced Database Systems  
+CMSC 23700   Introduction to Computer Graphics  
+CMSC 23710   Scientific Visualization  
+CMSC 23900   Data Visualization  
+CMSC 25025   Machine Learning and Large-Scale Data Analysis  
+CMSC 25040   Introduction to Computer Vision  
+CMSC 25300   Mathematical Foundations of Machine Learning  
+CMSC 25400   Machine Learning  
+CMSC 25422   Machine Learning for Computer Systems  
+CMSC 25440   Machine Learning in Medicine  
+CMSC 25460   Introduction to Optimization  
+CMSC 25500   Introduction to Neural Networks  
+CMSC 25610   Undergraduate Computational Linguistics  
+CMSC 25700   Natural Language Processing  
+CMSC 25900   Ethics, Fairness, Responsibility, and Privacy in Data Science  
+CMSC 25910   Engineering for Ethics, Privacy, and Fairness in Computer Systems  
+CMSC 27100   Discrete Mathematics  
+CMSC 27130   Honors Discrete Mathematics  
+CMSC 27200   Theory of Algorithms  
+CMSC 27230   Honors Theory of Algorithms  
+CMSC 27410   Honors Combinatorics  
+CMSC 27500   Graph Theory  
+CMSC 27502   Advanced Algorithms  
+CMSC 27530   Honors Graph Theory  
+CMSC 27620   Introduction to Bioinformatics  
+CMSC 27700 -27800   Mathematical Logic I-II
+CMSC 27700   Mathematical Logic I  
+CMSC 27800   Mathematical Logic II  
+CMSC 28000   Introduction to Formal Languages  
+CMSC 28100   Introduction to Complexity Theory  
+CMSC 28130   Honors Introduction to Complexity Theory  
+CMSC 28400   Introduction to Cryptography  
+CMSC 28510   Introduction to Scientific Computing  
+CMSC 28515   Introduction to Numerical Partial Differential Equations  
+CMSC 28540   Numerical Methods  
+CMSC 29512   Entrepreneurship in Technology  
+CMSC 29520   Sustainability and Computing  
+CMSC 29700   Reading and Research in Computer Science  
+CMSC 29900   Bachelor's Thesis  

@@ -1,0 +1,1383 @@
+Students who earn the BA are prepared either for graduate study in computer science or a career in industry.
+Students who earn the BS degree build strength in an additional field by following an approved course of study in a related area.
+The department also offers a minor.
+Where to Start
+Computer Science offers an introductory sequence for students interested in further study in computer science:
+
+CMSC 14100 Introduction to Computer Science I
+
+CMSC 14200 Introduction to Computer Science II
+
+CMSC 14300 Systems Programming I
+
+CMSC 14400 Systems Programming II
+
+
+Students with no prior experience in computer science should plan to start the sequence at the beginning in CMSC 14100 Introduction to Computer Science I.
+Students with prior experience should plan to take the placement exam(s) (described below) to identify the appropriate place to start the sequence.
+Students who are interested in data science should consider starting with DATA 11800 Introduction to Data Science I.
+Students who are interested in the visual arts or design should consider CMSC 11111 Creative Coding.
+Placement
+Exam Placement Paths
+Students with prior experience may place out of one or more of the introductory courses by successfully completing placement exam(s).
+The College and the Department of Computer Science offer three placement exams to help determine the correct starting point:
+
+
+The Online Introduction to Computer Science 1 Exam
+
+
+The Online Introduction to Computer Science 2 Exam
+
+
+The Systems Programming Exam
+
+
+The Online Introduction to Computer Science Exams may be taken (once) by entering students or by students who entered the College prior to Summer Quarter 2023.
+These exams will be offered in the summer prior to matriculation.
+Solely based on the Online Introduction to Computer Science 1 Exam, students may be placed into:
+
+
+CMSC 14100 Introduction to Computer Science I
+
+
+CMSC 14200 Introduction to Computer Science II
+
+
+Students who place into CMSC 14200 Introduction to Computer Science II will be invited to sit for the Online Introduction to Computer Science Exam 2.
+Solely based on the Online Introduction to Computer Science 2 Exam, students may be placed into CMSC 14300 Systems Programming I.
+Students who place into CMSC 14300 Systems Programming I will be invited to sit for the Systems Programming Exam.
+Solely based on the Systems Programming Exam, students may be placed into CMSC 14400 Systems Programming II.
+Exam Credit
+Students who place into CMSC 14200 Introduction to Computer Science II will receive credit for 
+CMSC 14100 Introduction to Computer Science I upon successfully completing CMSC 14200 Introduction to Computer Science II.
+Students who place into CMSC 14300 Systems Programming I will receive credit for 
+CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II upon successfully completing CMSC 14300 Systems Programming I.
+Students who are placed into CMSC 14400 Systems Programming II will receive credit for 
+CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II upon passing CMSC 14400 Systems Programming II.
+Program Requirements
+Both the BA and BS in computer science require fulfillment of the general education requirement in the mathematical sciences by completing an approved two-quarter calculus sequence.
+To earn a BA in computer science any sequence or pair of courses approved by the Physical Sciences Collegiate Division may be used to complete the general education requirement in the physical sciences.
+To earn a BS in computer science, the general education requirement in the physical sciences must be satisfied by completing a two-quarter sequence chosen from the General Education Sequences for Science Majors.
+Students are encouraged, but not required, to fulfill this requirement with a physics sequence.
+Students may petition to take more advanced courses to fulfill this requirement.
+Both BA and BS students take at least fourteen computer science courses chosen from an approved program.
+BS students also take three courses in an approved related field outside computer science.
+A small number of courses, such as CMSC 29512 Entrepreneurship in Technology, may be used as College electives, but not as major electives.
+Because these courses can change on a quarterly basis, they are not listed in the catalog.
+Computer Science Major
+The Computer Science Major Adviser is responsible for approval of specific courses and sequences, and responds as needed to changing course offerings in our program and other programs.
+Students should consult the major adviser with questions about specific courses they are considering taking to meet the requirements.
+There is one approved general program for both the BA and BS degrees, comprised of introductory courses, a sequence in Theory, and a sequence in Programming Languages and Systems, followed by advanced electives.
+Students may substitute upper-level or graduate courses in similar topics for those on the list that follows with the approval of the departmental counselor.
+The course information in this catalog, with respect to who is teaching which course and in which quarter(s), is subject to change during the academic year.
+Introductory Sequence (four courses required):
+Students who major in computer science must complete the introductory sequence:
+CMSC 14100Introduction to Computer Science I100
+CMSC 14200Introduction to Computer Science II100
+CMSC 14300Systems Programming I100
+CMSC 14400Systems Programming II100
+
+Students who place out of CMSC 14300 Systems Programming I based on the Systems Programming Exam are required to take an additional course from the list of courses approved for the Programming Languages and Systems Sequence, increasing the total number of courses required in the Programming Languages and Systems category from two to three.
+Students who entered the College prior to Autumn Quarter 2022 and have already completed part of the recently retired introductory sequence (CMSC 12100 Computer Science with Applications I, CMSC 15100 Introduction to Computer Science I, CMSC 15200 Introduction to Computer Science II, and/or CMSC 16100 Honors Introduction to Computer Science I) should plan to follow the academic year 2022 catalog.
+Students who were unable to complete the retired introductory sequence before it was retired should contact the Director of Undergraduate Studies for Computer Science or the Computer Science Major Adviser for guidance.
+Programming Languages and Systems Sequence (two courses required):
+Two of the following:
+CMSC 22001Software Construction
+CMSC 22100Programming Languages
+CMSC 22200Computer Architecture *
+CMSC 22240Computer Architecture for Scientists *
+CMSC 22300Functional Programming
+CMSC 22500Type Theory
+CMSC 22600Compilers for Computer Languages
+CMSC 23000Operating Systems
+CMSC 23010Parallel Computing
+CMSC 23200Introduction to Computer Security
+CMSC 23230Engineering Interactive Electronics onto Printed Circuit Boards
+CMSC 23300Networks and Distributed Systems
+CMSC 23310Advanced Distributed Systems
+CMSC 23320Foundations of Computer Networks
+CMSC 23360Advanced Networks
+CMSC 23400Mobile Computing
+CMSC 23500Introduction to Database Systems
+CMSC 23700Introduction to Computer Graphics
+CMSC 23710Scientific Visualization
+
+*Students may take either CMSC 22200 or CMSC 22240, but not both.
+Students who place out of CMSC 14300 Systems Programming I based on the Systems Programming Exam must replace it with an additional course from this list, 
+increasing the total number of courses required in this category from two to three.
+Theory Sequence (three courses required):
+Students must choose three courses from the following (one course each from areas A, B, and C).
+Area A
+CMSC 27100Discrete Mathematics
+CMSC 27130Honors Discrete Mathematics
+Area B
+CMSC 27200Theory of Algorithms
+CMSC 27230Honors Theory of Algorithms
+Area C
+CMSC 27410Honors Combinatorics
+CMSC 27500Graph Theory
+CMSC 27502Advanced Algorithms
+CMSC 27530Honors Graph Theory
+CMSC 27700Mathematical Logic I
+CMSC 27800Mathematical Logic II
+CMSC 28000Introduction to Formal Languages
+CMSC 28100Introduction to Complexity Theory
+CMSC 28130Honors Introduction to Complexity Theory
+CMSC 28400Introduction to Cryptography
+
+The graduate versions of Discrete Mathematics and/or Theory of Algorithms can be substituted for their undergraduate counterparts.
+We strongly encourage all computer science majors to complete their theory courses by the end of their third year.
+Electives (five courses required):
+The major requires five additional elective computer science courses numbered 20000 or above.
+Students may enroll in CMSC 29700 Reading and Research in Computer Science and CMSC 29900 Bachelor's Thesis for multiple quarters, but only one of each may be counted as a major elective.
+Courses numbered at CMSC 30000 level must be approved electives in order to satisfy the electives requirement for the major.
+Because these courses can change on a quarterly basis, they are not listed in the catalog.
+A small number of courses, such as CMSC 29512 Entrepreneurship in Technology, may be used as College electives, but not as major electives.
+Courses that fall into this category will be marked as such.
+Specializations
+Students who major in computer science have the option to complete one specialization.
+To do so, students must choose three of their electives from the relevant approved specialization list.
+The graduate versions of the courses below can be substituted for their undergraduate counterparts.
+Please refer to the Computer Science Department's website for an up-to-date list of courses that fulfill each specialization.
+Students may petition to have alternate courses count towards their specialization via this same page.
+The following specializations are currently available: 
+
+
+Computer Security and Privacy: CMSC 23200 Introduction to Computer Security
+ and two other courses from this list
+
+
+CMSC 23206 Security, Privacy, and Consumer Protection
+
+
+CMSC 23210 Usable Security and Privacy
+
+
+
+CMSC 25910 Engineering for Ethics, Privacy, and Fairness in Computer Systems
+
+
+​CMSC 28400 Introduction to Cryptography
+
+
+
+Bachelor’s thesis in computer security, approved as such
+
+
+
+
+Computer Systems: three courses from this list, over and above those taken to fulfill the programming languages and systems requirement
+
+
+CMSC 22200 Computer Architecture
+
+ 
+
+
+CMSC 22240 Computer Architecture for Scientists
+
+
+CMSC 23000 Operating Systems
+
+
+CMSC 23010 Parallel Computing
+
+
+CMSC 23310 Advanced Distributed Systems
+
+
+CMSC 23320 Foundations of Computer Networks
+
+
+CMSC 23500 Introduction to Database Systems
+
+
+CMSC 23530 Advanced Database Systems
+
+
+CMSC 25422 Machine Learning for Computer Systems
+
+
+Bachelor’s thesis in computer systems, approved as such
+
+
+
+
+Data Science: CMSC 21800 Data Science for Computer Scientists and two other courses from this list
+
+
+CMSC 23900 Data Visualization 
+
+
+
+CMSC 25025 Machine Learning and Large-Scale Data Analysis
+
+
+
+CMSC 25300 Mathematical Foundations of Machine Learning 
+
+
+
+CMSC 25400 Machine Learning 
+
+
+
+Bachelor’s thesis in data science, approved as such
+
+
+
+
+Human Computer Interaction: CMSC 20300 Introduction to Human-Computer Interaction
+ and two other courses from this list
+
+
+​​CMSC 20370 Inclusive Technology: Designing for Underserved and Marginalized Populations
+
+
+CMSC 20380 Actuated User Interfaces and Technology
+
+
+​CMSC 20900 Computers for Learning
+
+
+​CMSC 23210 Usable Security and Privacy
+
+
+
+​CMSC 23220 Inventing, Engineering and Understanding Interactive Devices
+
+
+
+CMSC 23230 Engineering Interactive Electronics onto Printed Circuit Boards
+
+
+
+​CMSC 23240 Emergent Interface Technologies
+
+
+​CMSC 23400 Mobile Computing
+
+
+
+​CMSC 23900 Data Visualization
+
+
+
+Bachelor’s thesis in human computer interaction, approved as such
+
+
+
+
+Machine Learning: three courses from this list
+
+
+CMSC 25025 Machine Learning and Large-Scale Data Analysis
+
+
+CMSC 25040 Introduction to Computer Vision
+
+
+CMSC 25300 Mathematical Foundations of Machine Learning 
+
+
+
+CMSC 25400 Machine Learning
+
+
+
+CMSC 25440 Machine Learning in Medicine 
+
+
+
+CMSC 25460 Introduction to Optimization
+
+
+
+CMSC 25500 Introduction to Neural Networks
+
+
+
+CMSC 25700 Natural Language Processing
+
+
+
+Some TTIC courses are approved for this specialization.
+Students should contact the Computer Science Major Adviser concerning potential overlap.
+Bachelor’s thesis in machine learning, approved as such
+
+
+
+
+Programming Languages: three courses from this list, over and above those courses taken to fulfill the programming languages and systems requirements
+
+
+CMSC 22100 Programming Languages
+
+
+
+CMSC 22300 Functional Programming
+
+
+
+CMSC 22400 Programming Proofs
+
+
+
+CMSC 22500 Type Theory
+
+
+
+CMSC 22600 Compilers for Computer Languages
+
+
+
+Bachelor’s thesis in programming languages, approved as such
+
+
+
+
+Theory: three courses from this list, over and above those taken to fulfill the theory requirements
+
+
+CMSC 27410 Honors Combinatorics
+
+
+
+CMSC 27500 Graph Theory
+
+
+
+CMSC 27502 Advanced Algorithms
+
+
+
+CMSC 27530 Honors Graph Theory
+
+
+
+CMSC 27700 Mathematical Logic I
+
+
+
+CMSC 27800 Mathematical Logic II
+
+
+
+CMSC 28000 Introduction to Formal Languages
+
+
+
+CMSC 28100 Introduction to Complexity Theory
+
+
+
+CMSC 28130 Honors Introduction to Complexity Theory
+
+
+
+CMSC 28400 Introduction to Cryptography
+
+
+
+Bachelor’s thesis in theory, approved as such
+
+
+
+
+
+Grading
+Computer science majors must take courses in the major for quality grades.
+A grade of C- or higher must be received in each course counted towards the major.
+Any 20000-level computer science course taken as an elective beyond requirements for the major may, with consent of the instructor, be taken for P/F grading.
+Non-majors may take courses either for quality grades or, subject to College regulations and with consent of the instructor, for P/F grading.
+A Pass grade is given only for work of C- quality or higher.
+Courses fulfilling general education requirements must be taken for quality grades.
+Honors
+Students can earn a BA or BS degree with honors by attaining a grade of B or higher in all courses in the major and a grade of B or higher in three approved graduate computer science courses (30000-level and above).
+These courses may be courses taken for the major or as electives.
+Students may also earn a BA or BS degree with honors by attaining the same minimum B grade in all courses in the major and by writing a successful bachelor's thesis as part of CMSC 29900 Bachelor's Thesis.
+This thesis must be based on an approved research project that is directed by a faculty member and approved by the department counselor.
+Minor Program in Computer Science
+The Department of Computer Science offers a seven-course minor: an introductory sequence of four courses followed by three approved upper-level courses.
+Courses in the minor must be taken for quality grades, with a grade of C- or higher in each course.
+Introductory Courses
+CMSC 14100Introduction to Computer Science I100
+CMSC 14200Introduction to Computer Science II100
+CMSC 14300Systems Programming I *100
+CMSC 14400Systems Programming II *100
+
+*Students interested in theory or machine learning can replace CMSC 14300 Systems Programming I and CMSC 14400 Systems Programming II with 20000-level electives in those fields.
+Upper-Level Courses
+The computer science minor must include three courses chosen from among all 20000-level CMSC courses and above.
+A 20000-level course must replace each 10000-level course in the list above that was used to meet general education requirements or the requirements of a major.
+CMSC 29512 may not be used for minor credit.
+Additional Minor Requirements
+No courses in the minor can be double counted with the student's major(s) or with other minors, nor can they be counted toward general education requirements.
+More than half of the requirements for the minor must be met by registering for courses bearing University of Chicago course numbers.
+Students may not use AP credit for computer science to meet minor requirements.
+Prospective minors should arrange to meet the departmental counselor for the minor no later than May 1 of their third year.
+The minor adviser must approve the student's Consent to Complete a Minor Program form, and the student must submit that form to the student's College adviser by the end of Spring Quarter of the student's third year.
+Joint BA/MS or BS/MS Program
+Outstanding undergraduates may apply to complete an MS in computer science along with a BA or BS (generalized to "BX") during their four years at the College.
+Students must be admitted to the joint MS program.
+There are three different paths to a BX/MS: a research-oriented program for computer science majors, a professionally oriented program for computer science majors, and a professionally oriented program for non-majors.
+Graduate Courses
+Graduate courses and seminars offered by the Department of Computer Science are open to College students with consent of the instructor and department counselor.
+For more information, consult the department counselor.
+Schedule Changes
+Please be aware that course information is subject to change, and the catalog does not necessarily reflect the most recent information.
+Computer Science Courses
+
+
+CMSC 11000.
+Multimedia Programming as an Interdisciplinary Art I.
+This course presented introductory techniques of problem solving, algorithm construction, program coding, and debugging, as interdisciplinary arts adaptable to a wide range of disciplines.
+Prerequisite(s): Placement into MATH 13100 or higher, or by consent.
+Note(s): This course meets the general education requirement in the mathematical sciences.
+This course will not be offered again.
+CMSC 11111.
+Creative Coding.
+This course is an introduction to programming, using exercises in graphic design and digital art to motivate and employ basic tools of computation (such as variables, conditional logic, and procedural abstraction).
+We will write code in JavaScript and related languages, and we will work with a variety of digital media, including vector graphics, raster images, animations, and web applications.
+Note(s): Students who have taken CMSC 11800, STAT 11800, CMSC 12100, CMSC 15100, or CMSC 16100 are not allowed to register for CMSC 11111.
+Equivalent Course(s): MAAD 21111
+
+
+
+CMSC 11710.
+Networks.
+Networks help explain phenomena in such technological, social, and biological domains as the spread of opinions, knowledge, and infectious diseases.
+Networks also help us understand properties of financial markets, food webs, and web technologies.
+At the same time, the structure and evolution of networks is determined by the set of interactions in the domain.
+Our study of networks will employ formalisms such as graph theory, game theory, information networks, and network dynamics, with the goal of building formal models and translating their observed properties into qualitative explanations.
+Prerequisite(s): Completion of the general education requirement in the mathematical sciences, and familiarity with basic concepts of probability at the high school level.
+Note(s): Necessary mathematical concepts will be presented in class.
+CMSC 11800.
+Introduction to Data Science I.
+Data science provides tools for gaining insight into specific problems using data, through computation, statistics and visualization.
+This course introduces students to all aspects of a data analysis process, from posing questions, designing data collection strategies, management+storing and processing of data, exploratory tools and visualization, statistical inference, prediction, interpretation and communication of results.
+Simple techniques for data analysis are used to illustrate both effective and fallacious uses of data science tools.
+Although this course is designed to be at the level of mathematical sciences courses in the Core, with little background required, we expect the students to develop computational skills that will allow them to analyze data.
+Computation will be done using Python and Jupyter Notebook.
+Instructor(s): William Trimble / TBD     Terms Offered: Autumn
+Spring
+Winter  
+Prerequisite(s): None
+Equivalent Course(s): STAT 11800, DATA 11800
+
+
+
+CMSC 11900.
+Introduction to Data Science II.
+This course is the second quarter of a two-quarter systematic introduction to the foundations of data science, as well as to practical considerations in data analysis.
+A broad background on probability and statistical methodology will be provided.
+More advanced topics on data privacy and ethics, reproducibility in science, data encryption, and basic machine learning will be introduced.
+We will explore these concepts with real-world problems from different domains.
+Instructor(s): William L Trimble / TBD     Terms Offered: Spring
+Winter
+Prerequisite(s): DATA 11800 , or STAT 11800 or CMSC 11800 or consent of instructor.
+Equivalent Course(s): STAT 11900, DATA 11900
+
+
+
+CMSC 12100-12200-12300.
+Computer Science with Applications I-II-III.
+This three-quarter sequence teaches computational thinking and skills to students who are majoring in the sciences, mathematics, and economics, etc.
+Lectures cover topics in (1) programming, such as recursion, abstract data types, and processing data; (2) computer science, such as clustering methods, event-driven simulation, and theory of computation; and to a lesser extent (3) numerical computation, such as approximating functions and their derivatives and integrals, solving systems of linear equations, and simple Monte Carlo techniques.
+CMSC 12100.
+Computer Science with Applications I.
+This course is the first in a three-quarter sequence that teaches computational thinking and skills to students in the sciences, mathematics, economics, etc.
+The course will cover abstraction and decomposition, simple modeling, basic algorithms, and programming in Python.
+Applications from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments.
+In recent offerings, students have written programs to simulate a model of housing segregation, determine the number of machines needed at a polling place, and analyze tweets from presidential debates.
+Prerequisite(s): First year students are not allowed to register for CMSC 12100.
+Placement into MATH 15100 or completion of MATH 13100.
+Note(s): First year students are not allowed to register for CMSC 12100.
+This course meets the general education requirement in the mathematical sciences.
+CMSC 12200.
+Computer Science with Applications II.
+This course is the second in a three-quarter sequence that teaches computational thinking and skills to students in the sciences, mathematics, economics, etc.
+Lectures cover topics in (1) data representation, (2) basics of relational databases, (3) shell scripting, (4) data analysis algorithms, such as clustering and decision trees, and (5) data structures, such as hash tables and heaps.
+Applications and datasets from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments.
+In recent offerings, students have written a course search engine and a system to do speaker identification.
+Students will program in Python and do a quarter-long programming project.
+Prerequisite(s): CMSC 12100
+Note(s): This course meets the general education requirement in the mathematical sciences.
+CMSC 12300.
+Computer Science with Applications III.
+The course revolves around core ideas behind the management and computation of large volumes of data ("Big Data").
+Topics include (1) Statistical methods for large data analysis, (2) Parallelism and concurrency, including models of parallelism and synchronization primitives, and (3) Distributed computing, including distributed architectures and the algorithms and techniques that enable these architectures to be fault-tolerant, reliable, and scalable.
+Students will continue to use Python, and will also learn C and distributed computing tools and platforms, including Amazon AWS and Hadoop.
+This course includes a project where students will have to formulate hypotheses about a large dataset, develop statistical models to test those hypotheses, implement a prototype that performs an initial exploration of the data, and a final system to process the entire dataset.
+Prerequisite(s): CMSC 12200
+
+
+
+
+
+CMSC 13600.
+Introduction to Data Engineering.
+Data-driven models are revolutionizing science and industry.
+Scalable systems are needed to collect, stream, process, and validate data at scale.
+This course is an introduction to "big" data engineering where students will receive hands-on experience building and deploying realistic data-intensive systems.
+It will cover streaming, data cleaning, relational data modeling and SQL, and Machine Learning model training.
+A core theme of the course is "scale," and we will discuss the theory and the practice of programming with large external datasets that cannot fit in main memory on a single machine.
+The course will consist of bi-weekly programming assignments, a midterm examination, and a final.
+Prerequisite(s): CMSC 11900, CMSC 12200, CMSC 15200, or CMSC 16200
+
+
+
+CMSC 14100.
+Introduction to Computer Science I.
+This course is the first of a pair of courses that are designed to introduce students to computer science and will help them build computational skills, such as abstraction and decomposition, and will cover basic algorithms and data structures.
+Students will also be introduced to the basics of programming in Python including designing and calling functions, designing and using classes and objects, writing recursive functions, and building and traversing recursive data structures.
+Students will also gain basic facility with the Linux command-line and version control.
+Prerequisite(s): Placement into MATH 15100 or completion of MATH 13100, or instructor’s consent, is a prerequisite for taking this course.
+CMSC 14200.
+Introduction to Computer Science II.
+This course is a direct continuation of CMSC 14100.
+Students will explore more advanced concepts in computer science and Python programming, with an emphasis on skills required to build complex software, such as object-oriented programming, advanced data structures, functions as first-class objects, testing, and debugging.
+The class will also introduce students to basic aspects of the software development lifecycle, with an emphasis on software design.
+Students will also gain further fluency in working with the Linux command-line, including some basic operating system concepts, as well as the use of version control systems for collaborative software development.
+Prerequisite(s): CMSC 14100, or placement into CMSC 14200, is a prerequisite for taking this course.
+CMSC 14300.
+Systems Programming I.
+This course is the first in a pair of courses designed to teach students about systems programming.
+In this course, students will develop a deeper understanding of what a computer does when executing a program.
+In order to make the operations of the computer more transparent, students will study the C programming language, with special attention devoted to bit-level programming, pointers, allocation, file input and output, and memory layout.
+In the context of the C language, the course will revisit fundamental data structures by way of programming exercises, including strings, arrays, lists, trees, and dictionaries.
+Furthermore, the course will examine how memory is organized and structured in a modern machine.
+Students will gain basic fluency with debugging tools such as gdb and valgrind and build systems such as make.
+Prerequisite(s): CMSC 14200, or placement into CMSC 14300, is a prerequisite for taking this course.
+CMSC 14400.
+Systems Programming II.
+This course is a direct continuation of CMSC 14300.
+This course covers the basics of computer systems from a programmer's perspective.
+Topics include machine language programming, exceptions, code optimization, performance measurement, system-level I/O, and concurrency.
+Students will gain further fluency with debugging tools and build systems.
+Prerequisite(s): CMSC 14300, or placement into CMSC 14400, is a prerequisite for taking this course.
+CMSC 15100-15200.
+Introduction to Computer Science I-II.
+This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages.
+Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs.
+NOTE: Non-majors may use either course in this sequence to meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15100-15200 or 16100-16200 to meet requirements for the major.
+CMSC 15100.
+Introduction to Computer Science I.
+This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages.
+Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs.
+NOTE: Non-majors may use either course in this sequence to meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15100-15200 or 16100-16200 to meet requirements for the major.
+Prerequisite(s): Placement into MATH 15100 or completion of MATH 13100.
+Note(s): This course meets the general education requirement in the mathematical sciences.
+Non-majors may use either course in this sequence to meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15100-15200 or 16100-16200 to meet requirements for the major.
+CMSC 15200.
+Introduction to Computer Science II.
+This sequence, which is recommended for all students planning to take more advanced courses in computer science, introduces computer science mostly through the study of programming in functional (Scheme) and imperative (C) programming languages.
+Topics include program design, control and data abstraction, recursion and induction, higher-order programming, types and polymorphism, time and space analysis, memory management, and data structures including lists, trees, and graphs.
+NOTE: Non-majors may use either course in this sequence to meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15100-15200 or 16100-16200 to meet requirements for the major.
+Prerequisite(s): CMSC 15100, CMSC 16100, CMSC 12100, or CMSC 10500.
+Note(s): This course meets the general education requirement in the mathematical sciences.
+Non-majors may use either course in this sequence to meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15100-15200 or 16100-16200 to meet requirements for the major.
+CMSC 15400.
+Introduction to Computer Systems.
+This course covers the basics of computer systems from a programmer's perspective.
+Topics include data representation, machine language programming, exceptions, code optimization, performance measurement, memory systems, and system-level I/O.
+Extensive programming required.
+Prerequisite(s): CMSC 12100, 15100, or 16100, and CMSC 15200, 16200, or 12300.
+CMSC 16100-16200.
+Honors Introduction to Computer Science I-II.
+Both courses in this sequence meet the general education requirement in the mathematical sciences; students who are majoring in Computer Science must use either CMSC 15200 or 16200 to meet requirements for the major.
+CMSC 16100.
+Honors Introduction to Computer Science I.
+Programming in a functional language (currently Haskell), including higher-order functions, type definition, algebraic data types, modules, parsing, I/O, and monads.
+Basic data structures, including lists, binary search trees, and tree balancing.
+Basic mathematics for reasoning about programs, including induction, inductive definition, propositional logic, and proofs.
+Prerequisite(s): Placement into MATH 16100 or equivalent and programming experience, or by consent.
+Note(s): This course meets the general education requirement in the mathematical sciences.
+CMSC 16200.
+Honors Introduction to Computer Science II.
+This course emphasizes the C Programming Language, but not in isolation.
+Instead, C is developed as a part of a larger programming toolkit that includes the shell (specifically ksh), shell programming, and standard Unix utilities (including awk).
+We cover various standard data structures, both abstractly, and in terms of concrete implementations-primarily in C, but also from time to time in other contexts like scheme and ksh.
+The course uses a team programming approach.
+There is a mixture of individual programming assignments that focus on current lecture material, together with team programming assignments that can be tackled using any Unix technology.
+Team projects are assessed based on correctness, elegance, and quality of documentation.
+We teach the "Unix way" of breaking a complex computational problem into smaller pieces, most or all of which can be solved using pre-existing, well-debugged, and documented components, and then composed in a variety of ways.
+Prerequisite(s): CMSC 16100, or CMSC 15100 and by consent.
+Note(s): Students who have taken CMSC 15100 may take 16200 with consent of instructor.
+This course meets the general education requirement in the mathematical sciences.
+CMSC 19911.
+Introduction to Creative Coding.
+This course is an introduction to programming, using exercises in graphic design and digital art to motivate and employ basic tools of computation (such as variables, conditional logic, and procedural abstraction).
+We will write code in JavaScript and related languages, and we will work with a variety of digital media, including vector graphics, raster images, animations, and web applications.
+This course is offered in the Pre-College Summer Immersion program.
+Terms Offered: Summer
+
+
+
+CMSC 20300.
+Introduction to Human-Computer Interaction.
+An introduction to the field of Human-Computer Interaction (HCI), with an emphasis in understanding, designing and programming user-facing software and hardware systems.
+This class covers the core concepts of HCI: affordances, mental models, selection techniques (pointing, touch, menus, text entry, widgets, etc), conducting user studies (psychophysics, basic statistics, etc), rapid prototyping (3D printing, etc), and the fundamentals of 3D interfaces (optics for VR, AR, etc).
+We compliment the lectures with weekly programming assignments and two larger projects, in which we build/program/test user-facing interactive systems.
+Prerequisite(s): CMSC 15400 or CMSC 22000
+Equivalent Course(s): MAAD 25300
+
+
+
+CMSC 20370.
+Inclusive Technology: Designing for Underserved and Marginalized Populations.
+Creating technologies that are inclusive of people in marginalized communities involves more than having technically sophisticated algorithms, systems, and infrastructure.
+It involves deeply understanding various community needs and using this understanding coupled with our knowledge of how people think and behave to design user-facing interfaces that can enhance and augment human capabilities.
+When dealing with under-served and marginalized communities, achieving these goals requires us to think through how different constraints such as costs, access to resources, and various cognitive and physical capabilities shape what socio-technical systems can best address a particular issue.
+This course leverages human-computer interaction and the tools, techniques, and principles that guide research on people to introduce you to the concepts of inclusive technology design.
+You will learn about different underserved and marginalized communities such as children, the elderly, those needing assistive technology, and users in developing countries, and their particular needs.
+In addition, you will learn how to be mindful of working with populations that can easily be exploited and how to think creatively of inclusive technology solutions.
+You will also put your skills into practice in a semester long group project involving the creation of an interactive system for one of the user populations we study.
+Terms Offered: Winter
+Prerequisite(s): CMSC 20300
+Equivalent Course(s): MAAD 20370, CMSC 30370
+
+
+
+CMSC 20380.
+Actuated User Interfaces and Technology.
+The recent advancement in interactive technologies allows computer scientists, designers, and researchers to prototype and experiment with future user interfaces that can dynamically move and shape-change.
+This class offers hands-on experience in learning and employing actuated and shape-changing user interface technologies to build interactive user experiences.
+Through multiple project-based assignments, students practice the acquired techniques to build interactive tangible experiences of their own.
+Prerequisite(s): CMSC 20300
+Equivalent Course(s): MAAD 20380, CMSC 30380
+
+
+
+CMSC 20600.
+Introduction to Robotics.
+Introduction to Robotics gives students a hands-on introduction to robot programming covering topics including sensing in real-world environments, sensory-motor control, state estimation, localization, forward/inverse kinematics, vision, and reinforcement learning.
+This course is centered around 3 mini projects exploring central concepts to robot programming and 1 final project whose topic is chosen by the students.
+Each of these mini projects will involve students programming real, physical robots interacting with the real world.
+Instructor(s): Sarah Sebo     Terms Offered: Winter
+Prerequisite(s): CMSC 15400
+Equivalent Course(s): CMSC 30600
+
+
+
+CMSC 20900.
+Computers for Learning.
+Over time, technology has occupied an increasing role in education, with mixed results.
+Massive Open Online Courses (MOOCs) were created to bring education to those without access to universities, yet most of the students who succeed in them are those who are already successful in the current educational model.
+This course focuses on one intersection of technology and learning: computer games.
+Labs focus on developing expertise in technology, and readings supplement lecture discussions on the human components of education.
+Prerequisite(s): CMSC 15400 or CMSC 22000
+Equivalent Course(s): MAAD 20900
+
+
+
+CMSC 21010.
+Mathematical Foundations.
+This course is an introduction to formal tools and techniques which can be used to better understand linguistic phenomena.
+A major goal of this course is to enable students to formalize and evaluate theoretical claims.
+Equivalent Course(s): LING 31010, LING 21010, CMSC 31010
+
+
+
+CMSC 21400.
+Creative Machines and Innovative Instrumentation.
+An understanding of the techniques, tricks, and traps of building creative machines and innovative instrumentation is essential for a range of fields from the physical sciences to the arts.
+In this hands-on, practical course, you will design and build functional devices as a means to learn the systematic processes of engineering and fundamentals of design and construction.
+The kinds of things you will learn may include mechanical design and machining, computer-aided design, rapid prototyping, circuitry, electrical measurement methods, and other techniques for resolving real-world design problems.
+In collaboration with others, you will complete a mini-project and a final project, which will involve the design and fabrication of a functional scientific instrument.
+The course will be taught at an introductory level; no previous experience is expected.
+The iterative nature of the design process will require an appreciable amount of time outside of class for completing projects.
+Instructor(s): Autumn Quarter Instructor: Scott Wakely     Terms Offered: Autumn
+Spring
+Winter
+Prerequisite(s): PHYS 12200 or PHYS 13200 or PHYS 14200; or CMSC 12100 or CMSC 12200 or CMSC 12300; or consent of instructor.
+Equivalent Course(s): ASTR 21400, PHYS 21400, ASTR 31400, CHEM 21400, PSMS 31400
+
+
+
+CMSC 21800.
+Data Science for Computer Scientists.
+Data-driven models are revolutionizing science and industry.
+This course covers computational methods for structuring and analyzing data to facilitate decision-making.
+We will cover algorithms for transforming and matching data; hypothesis testing and statistical validation; and bias and error in real-world datasets.
+A core theme of the course is "generalization"; ensuring that the insights gleaned from data are predictive of future phenomena.
+The course will include bi-weekly programming assignments, a midterm examination, and a final.
+Prerequisite(s): CMSC 15400 or CMSC 22000.
+Note: students who earned a Pass or quality grade of D or better in CMSC 13600 may not enroll in CMSC 21800.
+CMSC 22000.
+Introduction to Software Development.
+Besides providing an introduction to the software development process and the lifecycle of a software project, this course focuses on imparting a number of skills and industry best practices that are valuable in the development of large software projects, such as source control techniques and workflows, issue tracking, code reviews, testing, continuous integration, working with existing codebases, integrating APIs and frameworks, generating documentation, deployment, and logging and monitoring.
+The course also emphasizes the importance of collaboration in real-world software development, including interpersonal collaboration and team management.
+The course will be organized primarily around the development of a class-wide software project, with students organized into teams.
+Collaboration both within and across teams will be essential to the success of the project.
+Instructor(s): B.
+Sotomayor     Terms Offered: Spring
+Prerequisite(s): CMSC 15200 or CMSC 16200
+
+
+
+CMSC 22001.
+Software Construction.
+The course discusses both the empirical aspects of software engineering and the underlying theory.
+Topics will include, among others, software specifications, software design, software architecture, software testing, software reliability, and software maintenance.
+Students will be expected to actively participate in team projects in this course.
+Instructor(s): S.
+Lu     Terms Offered: Autumn
+Prerequisite(s): CMSC 15400.
+CMSC 22010.
+Digital Fabrication.
+Digital fabrication involves translation of a digital design into a physical object.
+While digital fabrication has been around for decades, only now has it become possible for individuals to take advantage of this technology through low cost 3D printers and open source tools for 3D design and modeling.
+In this course we will cover the foundations of 3D object design including computational geometry, the type of models that can and can't be fabricated, the uses and applications of digital fabrication, the algorithms, methods and tools for conversion of 3D models to representations that can be directly manufactured using computer controlled machines, the concepts and technology used in additive manufacturing (aka 3D printing) and the research and practical challenges of developing self-replicating machines.
+We will have several 3D printers available for use during the class and students will design and fabricate several parts during the course.
+Instructor(s): R.
+Stevens     Terms Offered: TBD
+Prerequisite(s): CMSC 15400 and some experience with 3D modeling concepts.
+CMSC 22100.
+Programming Languages.
+This course is an introduction to scientific programming language design, whereby design choices are made according to rigorous and well-founded lines of reasoning.
+The curriculum includes the lambda calculus, type systems, formal semantics, logic and proof, and, time permitting, a light introduction to machine assisted formal reasoning.
+Practical exercises in writing language transformers reinforce the the theory.
+While this course is not a survey of different programming languages, we do examine the design decisions embodied by various popular languages in light of their underlying formal systems.
+Prerequisite(s): CMSC 15400
+
+
+
+CMSC 22200.
+Computer Architecture.
+Computing systems have advanced rapidly and transformed every aspect of our lives for the last few decades, and innovations in computer architecture is a key enabler.
+In this course, students will learn the fundamental principles, techniques, and tradeoffs in designing the hardware/software interface and hardware components to create a computing system that meets functional, performance, energy, cost, and other specific goals.
+Example topics include instruction set architecture (ISA), pipelining, memory hierarchies, input/output, and multi-core designs.
+In addition, we will discuss advanced topics regarding recent research and trends.
+This course also includes hands-on labs, where students will enhance their learning by implementing a modern microprocessor in a C simulator.
+Instructor(s): Y.
+Li     Terms Offered: Autumn
+Prerequisite(s): CMSC 15400.
+CMSC 22240.
+Computer Architecture for Scientists.
+Designed to provide an understanding of the key scientific ideas that underpin the extraordinary capabilities of today's computers, including speed (gigahertz), illusion of sequential order (relativity), dynamic locality (warping space), parallelism, keeping it cheap - and low-energy (e-field scaling), and of course their ability as universal information processing engines.
+These scientific "miracles" are robust, and provide a valuable longer-term understanding of computer capabilities, performance, and limits to the wealth of computer scientists practicing data science, software development, or machine learning.
+This course can be used towards fulfilling the Programming Languages and Systems requirement for the CS major.
+Terms Offered: Winter
+Prerequisite(s): CMSC 15400
+
+
+
+CMSC 22300.
+Functional Programming.
+Programming languages often conflate the definition of mathematical functions, which deterministically map inputs to outputs, and computations that effect changes, such as interacting with users and their machines.
+In this course, we will enrich our perspective about these two related but distinct mechanisms, by studying the statically-typed pure functional programming language Haskell.
+Topics include: algebraic datatypes, an elegant language for describing and manipulating domain-specific data; higher-order functions and type polymorphism, expressive mechanisms for abstracting programs; and a core set of type classes, with strong connections to category theory, that serve as a foundational and practical basis for mixing pure functions with stateful and interactive computations.
+In addition to small and medium sized programming assignments, the course includes a larger open-ended final project.
+Prerequisite(s): CMSC 14300 or CMSC 15200.
+Starting AY 2022-23, students who have taken CMSC 16100 are not allowed to register for CMSC 22300.
+CMSC 22400.
+Programming Proofs.
+In this course, we will explore the use of proof assistants, computer programs that allow us to write, automate, and mechanically check proofs.
+These tools have two main uses.
+They allow us to prove properties of our programs, thereby guaranteeing that our code is free of software errors.
+They also allow us to formalize mathematics, stating and proving mathematical theorems in a manner that leaves no doubt as to their meaning or veracity.
+At the intersection of these two uses lies mechanized computer science, involving proofs about data structures, algorithms, programming languages and verification itself.
+Prerequisite(s): (CMSC 27100 or CMSC 27130 or CMSC 37000), and (CMSC 15100 or CMSC 16100 or CMSC 22100 or CMSC 22300 or CMSC 22500 or CMSC 22600) , or by consent.
+Note(s): This course can count toward the Programming Languages & Systems requirement for the CS Major.
+CMSC 22450.
+Foundations of Programming Languages.
+This course is an introduction to the theory of programming languages.
+It develops the mathematical tools for specifying and reasoning about the static and dynamic semantics of programming languages.
+The course covers the λ-calculus, which underpins the semantics of many real-world languages, as well as various different techniques for specifying language semantics.
+Prerequisite(s): (CMSC 27100 or CMSC 27130 or CMSC 37110) or (CMSC 27200 or CMSC 27230 or CMSC 37000).
+Equivalent Course(s): CMSC 32450
+
+
+
+CMSC 22500.
+Type Theory.
+Church's λ-calculus, β-reduction, the Church-Rosser theorem.
+Simple type theory, strong normalization.
+The Barendregt cube of type theories.
+Dependent types.
+The Curry-Howard Isomorphism.
+Formal constructive mathematics.
+Instructor(s): Stuart Kurtz     Terms Offered: TBD
+Prerequisite(s): CMSC 15100 or CMSC 16100, and CMSC 27100 or CMSC 27700 or MATH 27700, or by consent.
+CMSC 22600.
+Compilers for Computer Languages.
+This course covers principles of modern compiler design and implementation.
+Topics include lexical analysis, parsing, type checking, optimization, and code generation.
+This is a project oriented course in which students will construct a fully working compiler, using Standard ML as the implementation language.
+Terms Offered: Alternate years.
+Prerequisite(s): CMSC 15400 required; CMSC 22100 recommended.
+CMSC 22880.
+Introduction to Quantum Computing.
+This introduction to quantum computing will cover the key principles of quantum information science and how they relate to quantum computing as well as the notation and operations used in QIS.
+We will then take these building blocks and linear algebra principles to build up to several quantum algorithms and complete several quantum programs using a mainstream quantum programming language.
+Terms Offered: Winter
+Prerequisite(s): CMSC 15400
+
+
+
+CMSC 22900.
+Quantum Computer Systems.
+This course will explore the design, optimization, and verification of the software and hardware involved in practical quantum computer systems.
+The course will provide an introduction to quantum computation and quantum technologies, as well as classical and quantum compiler techniques to optimize computations for technologies.
+Verification techniques to evaluate the correctness of quantum software and hardware will also be explored.
+Instructor(s): Chong     Terms Offered: Spring
+Prerequisite(s): CMSC 22880
+Equivalent Course(s): CMSC 32900
+
+
+
+CMSC 23000.
+Operating Systems.
+This course provides an introduction to basic Operating System principles and concepts that form as fundamental building blocks for many modern systems from personal devices to Internet-scale services.
+Basic topics include processes, threads, concurrency, synchronization, memory management, virtual memory, segmentation, paging, caching, process and I/O scheduling, file systems, storage devices.
+The course will also cover special topics such as journaling/transactions, SSD, RAID, virtual machines, and data-center operating systems.
+The course project will revolve around the implementation of a mini x86 operating system kernel.
+Instructor(s): H.
+Gunawi     Terms Offered: Autumn
+Prerequisite(s): CMSC 15400 and one of CMSC 22200, CMSC 22600, CMSC 22610, CMSC 23300, CMSC 23400, CMSC 23500, CMSC 23700, CMSC 27310, or CMSC 23800 strongly recommended.
+CMSC 23010.
+Parallel Computing.
+This course provides an introduction to the concepts of parallel programming, with an emphasis on programming multicore processors.
+Topics include: Processes and threads, shared memory, message passing, direct-memory access (DMA), hardware mechanisms for parallel computing, synchronization and communication, patterns of parallel programming.
+The course will involve a substantial programming project implementing a parallel computations.
+Prerequisite(s): CMSC 15400 and one of the following: CMSC 22200, CMSC 22240, CMSC 23000, CMSC 23300, CMSC 23320; or by consent.
+CMSC 23200.
+Introduction to Computer Security.
+This course introduces the principles and practice of computer security.
+It aims to teach how to model threats to computer systems and how to think like a potential attacker.
+It presents standard cryptographic functions and protocols and gives an overview of threats and defenses for software, host systems, networks, and the Web.
+It also touches on some of the legal, policy, and ethical issues surrounding computer security in areas such as privacy, surveillance, and the disclosure of security vulnerabilities.
+The goal of this course is to provide a foundation for further study in computer security and to help better understand how to design, build, and use computer systems more securely.
+Terms Offered: Autumn
+Winter
+Prerequisite(s): CMSC 15400.
+Equivalent Course(s): CMSC 33250
+
+
+
+CMSC 23206.
+Security, Privacy, and Consumer Protection.
+This course will cover the principles and practice of security, privacy, and consumer protection.
+Topics include: basic cryptography; physical, network, endpoint, and data security; privacy (including user surveillance and tracking); attacks and defenses; and relevant concepts in usable security.
+The course will place fundamental security and privacy concepts in the context of past and ongoing legal, regulatory, and policy developments, including: consumer privacy, censorship, platform content moderation, data breaches, net neutrality, government surveillance, election security, vulnerability discovery and disclosure, and the fairness and accountability of automated decision making, including machine learning systems.
+Students will learn both technical fundamentals and how to apply these concepts to public policy outputs and recommendations.
+Instructor(s): Feamster, Nicholas     Terms Offered: Winter
+Prerequisite(s): CMSC 15400 or equivalent, and instructor consent.
+Note(s): Prerequisites: CMSC 15400 or equivalent, or graduate student.
+Instructor consent required.
+Equivalent Course(s): CMSC 30350, CAPP 30350
+
+
+
+CMSC 23210.
+Usable Security and Privacy.
+Regardless of how secure a system is in theory, failing to consider how humans actually use the system leads to disaster in practice.
+This course will examine how to design for security and privacy from a user-centered perspective by combining insights from computer systems, human-computer interaction (HCI), and public policy.
+We will introduce core security and privacy technologies, as well as HCI techniques for conducting robust user studies.
+Topics will include usable authentication, user-centered web security, anonymity software, privacy notices, security warnings, and data-driven privacy tools in domains ranging from social media to the Internet of Things.
+Students will complete weekly problem sets, as well as conduct novel research in a group capstone project.
+No prior experience in security, privacy, or HCI is required.
+Instructor(s): B.
+Ur     Terms Offered: Spring
+Prerequisite(s): CMSC 12300 or CMSC 15400.
+Equivalent Course(s): CMSC 33210
+
+
+
+CMSC 23218.
+Surveillance Aesthetics: Provocations About Privacy and Security in the Digital Age.
+In the modern world, individuals' activities are tracked, surveilled, and computationally modeled to both beneficial and problematic ends.
+Jointly with the School of the Art Institute of Chicago (SAIC), this course will examine privacy and security issues at the intersection of the physical and digital worlds.
+Through both computer science and studio art, students will design algorithms, implement systems, and create interactive artworks that communicate, provoke, and reframe pervasive issues in modern privacy and security.
+The course will unpack and re-entangle computational connections and data-driven interactions between people, built space, sensors, structures, devices, and data.
+Synthesizing technology and aesthetics, we will communicate our findings to the broader public not only through academic avenues, but also via public art and media.
+The first phase of the course will involve prompts in which students design and program small-scale artworks in various contexts, including (1) data collected from web browsing; (2) mobility data; (3) data collected about consumers by major companies; and (4) raw sensor data.
+Students will receive detailed feedback on their work from computer scientists, artists, and curators at the Museum of Science & Industry (MSI).
+The course culminates in the production and presentation of a capstone interactive artwork by teams of computer scientists and artists; successful products may be considered for prototyping at the MSI.
+Instructor(s): Blase Ur     Terms Offered: Autumn
+Prerequisite(s): One of CMSC 23200, CMSC 23210, CMSC 25900, CMSC 28400, CMSC 33210, CMSC 33250, or CMSC 33251 recommended, but not required.
+Inventing, Engineering and Understanding Interactive Devices.
+A physical computing class, dedicated to micro-controllers, sensors, actuators and fabrication techniques.
+The objective is that everyone creates their own, custom-made, functional I/O device.
+Terms Offered: Spring
+Prerequisite(s): CMSC 15400
+Equivalent Course(s): MAAD 23220
+
+
+
+CMSC 23230.
+Engineering Interactive Electronics onto Printed Circuit Boards.
+In this class we will engineer electronics onto Printed Circuit Boards (PCBs).
+We will focus on designing and laying out the circuit and PCB for our own custom-made I/O devices, such as wearable or haptic devices.
+In order for you to be successful in engineering a functional PCB, we will (1) review digital circuits and three microcontrollers (ATMEGA, NRF, SAMD); (2) use KICAD to build circuit schematics; (3) learn how to wire analog/digital sensors or actuators to our microcontroller, including SPI and I2C protocols; (4) use KICAD to build PCB schematics; (5) actually manufacture our designs; (6) receive in our hands our PCBs from factory; (7) finally, learn how to debug our custom-made PCBs.
+Instructor(s): Lopes     Terms Offered: Spring
+Prerequisite(s): CMSC 15400.
+Equivalent Course(s): CMSC 33230
+
+
+
+CMSC 23240.
+Emergent Interface Technologies.
+In this class you will: (1) learn about these new developments during the lectures, (2) read HCI papers and summarize these in short weekly assignments, and lastly, (3) start inventing the future of computing interfaces by proposing a new idea in the form of a paper abstract, which you will present at the end of the semester and have it peer-reviewed in class by your classmates.
+Terms Offered: Winter
+Prerequisite(s): CMSC 15400
+
+
+
+CMSC 23300.
+Networks and Distributed Systems.
+This course focuses on the principles and techniques used in the development of networked and distributed software.
+This is a project-oriented course in which students are required to develop software in C on a UNIX environment.
+Instructor(s): B.
+Sotomayor     Terms Offered: Winter
+Prerequisite(s): CMSC 15400.
+CMSC 23310.
+Advanced Distributed Systems.
+In recent years, large distributed systems have taken a prominent role not just in scientific inquiry, but also in our daily lives.
+When we perform a search on Google, stream content from Netflix, place an order on Amazon, or catch up on the latest comings-and-goings on Facebook, our seemingly minute requests are processed by complex systems that sometimes include hundreds of thousands of computers, connected by both local and wide area networks.
+Many of these fundamental problems were identified and solved over the course of several decades, starting in the 1970s.
+To better appreciate the challenges of recent developments in the field of Distributed Systems, this course will guide students through seminal work in Distributed Systems from the 1970s, '80s, and '90s, leading up to a discussion of recent work in the field.
+Prerequisite(s): CMSC 23300 with at least a B+, or by consent.
+CMSC 23320.
+Foundations of Computer Networks.
+This course focuses on the principles and techniques used in the development of networked and distributed software.
+This is a project-oriented course in which students are required to develop software in C on a UNIX environment.
+This course can be used towards fulfilling the Programming Languages and Systems requirement for the CS major.
+Terms Offered: Winter
+Prerequisite(s): CMSC 15400
+Note(s): This course can be used towards fulfilling the Programming Languages and Systems requirement for the CS major.
+Students who have taken CMSC 23300 may not take CMSC 23320.
+Equivalent Course(s): MPCS 54233
+
+
+
+CMSC 23360.
+Advanced Networks.
+Advanced networks
+Terms Offered: Spring
+Prerequisite(s): CMSC 23300 or CMSC 23320
+Note(s): A more detailed course description should be available later.
+CMSC 23400.
+Mobile Computing.
+Mobile computing is pervasive and changing nearly every aspect of society.
+Sensing, actuation, and mediation capabilities of mobile devices are transforming all aspects of computing:  uses, networking, interface, form, etc.
+This course explores new technologies driving mobile computing and their implications for systems and society.
+Current focus areas include new techniques to capture 3d models (depth sensors, stereo vision), drones that enable targeted, adaptive, focused sensing, and new 3d interactive applications (augmented reality, cyberphysical, and virtual reality).
+Labs expose students to software and hardware capabilities of mobile computing systems, and develop the capability to envision radical new applications for a large-scale course project.
+Instructor(s): A.
+Chien     Terms Offered: Winter
+Prerequisite(s): CMSC 15400.
+CMSC 23000 or 23300 recommended.
+Knowledge of Java required.
+CMSC 23500.
+Introduction to Database Systems.
+This course is an introduction to database design and implementation.
+Topics include DBMS architecture, entity-relationship and relational models, relational algebra, concurrency control, recovery, indexing, physical data organization, and modern database systems.
+The lab section guides students through the  implementation of a relational database management system, allowing students to see topics such as physical data organization and DBMS architecture in practice, and exercise general skills such as software systems development.
+Instructor(s): A.
+Elmore     Terms Offered: Winter
+Prerequisite(s): CMSC 15400.
+Equivalent Course(s): CMSC 33550
+
+
+
+CMSC 23530.
+Advanced Database Systems.
+This course focuses on advanced concepts of database systems topics and assumes foundational knowledge outlined in CMSC 23500.
+Topics will include distribute databases, materialized views, multi-dimensional indexes, cloud-native architectures, data versioning, and concurrency-control protocols.
+Terms Offered: Spring
+Prerequisite(s): CMSC 23500
+
+
+
+CMSC 23700.
+Introduction to Computer Graphics.
+This course introduces the basic concepts and techniques used in three-dimensional computer graphics.
+The course covers both the foundations of 3D graphics (coordinate systems and transformations, lighting, texture mapping, and basic geometric algorithms and data structures), and the practice of real-time rendering using programmable shaders.
+Students are required to complete both written assignments and programming projects using OpenGL.
+Prerequisite(s): CMSC 15400
+Note(s): Prior experience with basic linear algebra (matrix algebra) is recommended.
+Equivalent Course(s): CMSC 33700
+
+
+
+CMSC 23710.
+Scientific Visualization.
+Scientific visualization combines computer graphics, numerical methods, and mathematical models of the physical world to create a visual framework for understanding and solving scientific problems.
+The mathematical and algorithmic foundations of scientific visualization (for example, scalar, vector, and tensor fields) will be explained in the context of real-world data from scientific and biomedical domains.
+The course is also intended for students outside computer science who are experienced with programming and computing with scientific data.
+Programming projects will be in C and C++.
+Instructor(s): G.
+Kindlmann     Terms Offered: Winter
+Prerequisite(s): CMSC 15400 and knowledge of linear algebra, or by consent.
+Equivalent Course(s): CMSC 33710
+
+
+
+CMSC 23900.
+Data Visualization.
+Data visualizations provide a visual setting in which to explore, understand, and explain datasets.
+This class describes mathematical and perceptual principles, methods, and applications of "data visualization" (as it is popularly understood to refer primarily to tabulated data).
+A range of data types and visual encodings will be presented and evaluated.
+Instructor(s): G.
+Kindlmann     Terms Offered: Spring
+Prerequisite(s): CMSC 12200, CMSC 15200 or CMSC 16200.
+CMSC 25025.
+Machine Learning and Large-Scale Data Analysis.
+This course is an introduction to machine learning and the analysis of large data sets using distributed computation and storage infrastructure.
+Basic machine learning methodology and relevant statistical theory will be presented in lectures.
+Homework exercises will give students hands-on experience with the methods on different types of data.
+Methods include algorithms for clustering, binary classification, and hierarchical Bayesian modeling.
+Data types include images, archives of scientific articles, online ad clickthrough logs, and public records of the City of Chicago.
+Programming will be based on Python and R, but previous exposure to these languages is not assumed.
+Instructor(s): Staff
+Prerequisite(s): CMSC 15400 or CMSC 12200 and STAT 22000 or STAT 23400, or by consent.
+Note(s): The prerequisites are under review and may change.
+Equivalent Course(s): STAT 37601
+
+
+
+CMSC 25040.
+Introduction to Computer Vision.
+This course covers the fundamentals of digital image formation; image processing, detection and analysis of visual features; representation shape and recovery of 3D information from images and video; analysis of motion.
+We also study some prominent applications of modern computer vision such as face recognition and object and scene classification.
+Our emphasis is on basic principles, mathematical models, and efficient algorithms established in modern computer vision.
+Instructor(s): Michael Maire     Terms Offered: Winter
+Prerequisite(s): CMSC 25300, CMSC 25400, CMSC 25025, or TTIC 31020.
+Linear algebra strongly recommended; a 200-level Statistics course recommended.
+CMSC 25300.
+Mathematical Foundations of Machine Learning.
+This course is an introduction to the mathematical foundations of machine learning that focuses on matrix methods and features real-world applications ranging from classification and clustering to denoising and data analysis.
+Mathematical topics covered include linear equations, regression, regularization, the singular value decomposition, and iterative algorithms.
+Machine learning topics include the lasso, support vector machines, kernel methods, clustering, dictionary learning, neural networks, and deep learning.
+Matlab, Python, Julia, R).
+Prerequisite(s): CMSC 12200 or CMSC 15200 or CMSC 16200, and the equivalent of two quarters of calculus (MATH 13200 or higher).
+Equivalent Course(s): CMSC 35300, STAT 27700
+
+
+
+CMSC 25400.
+Machine Learning.
+This course introduces the foundations of machine learning and provides a systematic view of a range of machine learning algorithms.
+Topics covered include two parts: (1) a gentle introduction of machine learning: generalization and model selection, regression and classification, kernels, neural networks, clustering and dimensionality reduction; (2) a statistical perspective of machine learning, where we will dive into several probabilistic supervised and unsupervised models, including logistic regression, Gaussian mixture models, and generative adversarial networks.
+Terms Offered: Winter
+Prerequisite(s): CMSC 25300 or CMSC 35300 or STAT 24300 or STAT 24500
+Equivalent Course(s): STAT 27725
+
+
+
+CMSC 25422.
+Machine Learning for Computer Systems.
+This course will cover topics at the intersection of machine learning and systems, with a focus on applications of machine learning to computer systems.
+Topics covered will include applications of machine learning models to security, performance analysis, and prediction problems in systems; data preparation, feature selection, and feature extraction; design, development, and evaluation of machine learning models and pipelines; fairness, interpretability, and explainability of machine learning models; and testing and debugging of machine learning models.
+Prerequisite(s): CMSC 15400
+Equivalent Course(s): CMSC 35422, DATA 35422, DATA 25422
+
+
+
+CMSC 25440.
+Machine Learning in Medicine.
+In this course we will study the how machine learning is used in biomedical research and in healthcare delivery.
+We will build and explore a range of models in areas such as infectious disease and drug resistance, cancer diagnosis and treatment, drug design, genomics analysis, patient outcome prediction, medical records interpretation and medical imaging.
+Students will become familiar with the types and scale of data used to train and validate models and with the approaches to build, tune and deploy machine learned models.
+We will use traditional machine learning methods as well as deep learning depending on the problem.
+The course will be fast moving and will involve weekly program assignments.
+We will introduce the machine learning methods as we go, but previous familiarity with machine learning will be helpful.
+Programming assignments will be in python and we will use Google Collaboratory and Amazon AWS for compute intensive training.
+Instructor(s): Rick Stevens     Terms Offered: Autumn
+Prerequisite(s): CMSC 12200 or CMSC 15200 or CMSC 16200.
+Proficiency in Python is expected.
+CMSC 25460.
+Introduction to Optimization.
+Introduction to Optimization
+Instructor(s): Lorenzo Orecchia     Terms Offered: Spring
+Prerequisite(s): (CMSC 27100 or CMSC 27130 or CMSC 37000) and CMSC 25300
+
+
+
+CMSC 25500.
+Introduction to Neural Networks.
+This course will provide an introduction to neural networks and fundamental concepts in deep learning.
+It will cover the basics of training neural networks, including backpropagation, stochastic gradient descent, regularization, and data augmentation.
+It will explore network design principles, spanning multilayer perceptrons, convolutional and recurrent architectures, attention, memory, and generative adversarial networks.
+Students will gain experience applying neural networks to modern problems in computer vision, natural language processing, and reinforcement learning.
+Note: students can use at most one of CMSC 25500 and TTIC 31230 towards the computer science major.
+Terms Offered: Autumn
+Prerequisite(s): CMSC 25300 or CMSC 25400, knowledge of linear algebra.
+Note(s): Students can use at most one of CMSC 25500 and TTIC 31230 towards a CS major or CS minor.
+CMSC 25610.
+Undergraduate Computational Linguistics.
+This course is an introduction to topics at the intersection of computation and language.
+We will study computational linguistics from both scientific and engineering angles: the use of computational modeling to address scientific questions in linguistics and cognitive science, as well as the design of computational systems to solve engineering problems in natural language processing (NLP).
+The course will combine analysis and discussion of these approaches with training in the programming and mathematical foundations necessary to put these methods into practice.
+The course is designed to accommodate students both with and without prior programming experience.
+Our goal is for all students to leave the course able to engage with and evaluate research in cognitive/linguistic modeling and NLP, and to be able to implement intermediate-level computational models.
+Instructor(s): Allyson Ettinger     Terms Offered: Autumn
+Equivalent Course(s): LING 28610
+
+
+
+CMSC 25700.
+Natural Language Processing.
+This course will introduce fundamental concepts in natural language processing (NLP).
+NLP includes a range of research problems that involve computing with natural language.
+Some are user-facing applications, such as spam classification, question answering, summarization, and machine translation.
+Others serve supporting roles, such as part-of-speech tagging and syntactic parsing.
+Solutions draw from machine learning (especially deep learning), algorithms, linguistics, and social sciences.
+Instructor(s): Chenhao Tan     Terms Offered: Winter
+Prerequisite(s): CMSC 25300, CMSC 25400, or CMSC 25025
+
+
+
+CMSC 25900.
+Ethics, Fairness, Responsibility, and Privacy in Data Science.
+This course takes a technical approach to understanding ethical issues in the design and implementation of computer systems.
+Tensions often arise between a computer system's utility and its privacy-invasiveness, between its robustness and its flexibility, and between its ability to leverage existing data and existing data's tendency to encode biases.
+The course will demonstrate how computer systems can violate individuals' privacy and agency, impact sub-populations in disparate ways, and harm both society and the environment.
+It will also introduce algorithmic approaches to fairness, privacy, transparency, and explainability in machine learning systems.
+Through hands-on programming assignments and projects, students will design and implement computer systems that reflect both ethics and privacy by design.
+They will also wrestle with fundamental questions about who bears responsibility for a system's shortcomings, how to balance different stakeholders' goals, and what societal values computer systems should embed.
+Prerequisite(s): CMSC 11900 or CMSC 12300 or CMSC 21800 or CMSC 23710 or CMSC 23900 or CMSC 25025 or CMSC 25300
+
+
+
+CMSC 25910.
+Engineering for Ethics, Privacy, and Fairness in Computer Systems.
+This course takes a technical approach to understanding ethical issues in the design and implementation of computer systems.
+Tensions often arise between a computer system's utility and its privacy-invasiveness, between its robustness and its flexibility, and between its ability to leverage existing data and existing data's tendency to encode biases.
+The course will demonstrate how computer systems can violate individuals' privacy and agency, impact sub-populations in disparate ways, and harm both society and the environment.
+It will also introduce algorithmic approaches to fairness, privacy, transparency, and explainability in machine learning systems.
+Through hands-on programming assignments and projects, students will design and implement computer systems that reflect both ethics and privacy by design.
+They will also wrestle with fundamental questions about who bears responsibility for a system's shortcomings, how to balance different stakeholders' goals, and what societal values computer systems should embed.
+Students may not take CMSC 25910 if they have taken CMSC 25900 or DATA 25900.
+Terms Offered: Spring
+Prerequisite(s): CMSC 20300 or CMSC 20600 or CMSC 21800 or CMSC 22000 or CMSC 22001 or CMSC 23000 or CMSC 23200 or CMSC 23300 or CMSC 23320 or CMSC 23400 or CMSC 23500 or CMSC 23900 or CMSC 25025.
+Note(s): anti-requisites: CMSC 25900,  DATA 25900
+
+
+
+CMSC 27100.
+Discrete Mathematics.
+This course emphasizes mathematical discovery and rigorous proof, which are illustrated on a refreshing variety of accessible and useful topics.
+Basic counting is a recurring theme and provides the most important source for sequences, which is another recurring theme.
+Further topics include proof by induction; recurrences and Fibonacci numbers; graph theory and trees; number theory, congruences, and Fermat's little theorem; counting, factorials, and binomial coefficients; combinatorial probability; random variables, expected value, and variance; and limits of sequences, asymptotic equality, and rates of growth.
+Instructor(s): S.
+Kurtz (Winter), J.
+Simon (Autumn)     Terms Offered: Autumn
+Winter
+Prerequisite(s): (CMSC 15200 or CMSC 16200 or CMSC 12200), or (MATH 15910 or MATH 16300 or higher), or by consent.
+Note(s): This is a directed course in mathematical topics and techniques that is a prerequisite for courses such as CMSC 27200 and 27400.
+CMSC 27130.
+Honors Discrete Mathematics.
+We emphasize mathematical discovery and rigorous proof, which are illustrated on a refreshing variety of accessible and useful topics.
+Basic counting is a recurring theme.
+Further topics include proof by induction; number theory, congruences, and Fermat's little theorem; relations; factorials, binomial coefficients and advanced counting; combinatorial probability; random variables, expected value, and variance; graph theory and trees.
+Time permitting, material on recurrences, asymptotic equality, rates of growth and Markov chains may be included as well.
+The honors version of Discrete Mathematics covers topics at a deeper level.
+Instructor(s): A.
+Razborov     Terms Offered: Autumn
+Prerequisite(s): (CMSC 12300 or CMSC 15400), or MAtH 16300 or higher, or by consent.
+Equivalent Course(s): MATH 28130
+
+
+
+CMSC 27200.
+Theory of Algorithms.
+This course covers design and analysis of efficient algorithms, with emphasis on ideas rather than on implementation.
+Algorithmic questions include sorting and searching, graph algorithms, elementary algorithmic number theory, combinatorial optimization, randomized algorithms, as well as techniques to deal with intractability, like approximation algorithms.
+Design techniques include "divide-and-conquer" methods, dynamic programming, greedy algorithms, and graph search, as well as the design of efficient data structures.
+Methods of algorithm analysis include asymptotic notation, evaluation of recurrent inequalities, amortized analysis, analysis of probabilistic algorithms, the concepts of polynomial-time algorithms, and of NP-completeness.
+Prerequisite(s): CMSC 27100 or CMSC 27130 or CMSC 37110, or by consent.
+CMSC 27230.
+Honors Theory of Algorithms.
+This course covers design and analysis of efficient algorithms, with emphasis on ideas rather than on implementation.
+Algorithmic questions include sorting and searching, discrete optimization, algorithmic graph theory, algorithmic number theory, and cryptography.
+Design techniques include divide-and-conquer methods, dynamic programming, greedy algorithms, and graph search, as well as the design of efficient data structures.
+Methods of algorithm analysis include asymptotic notation, evaluation of recurrent inequalities, the concepts of polynomial-time algorithms, and NP-completeness.
+The honors version of Theory of Algorithms covers topics at a deeper level.
+Instructor(s): A.
+Drucker     Terms Offered: Winter
+Prerequisite(s): CMSC 27100 or CMSC 27130 or CMSC 37110 or consent of the instructor.
+CMSC 27410.
+Honors Combinatorics.
+Methods of enumeration, construction, and proof of existence of discrete structures are discussed in conjunction with the basic concepts of probability theory over a finite sample space.
+Enumeration techniques are applied to the calculation of probabilities, and, conversely, probabilistic arguments are used in the analysis of combinatorial structures.
+Other topics include basic counting, linear recurrences, generating functions, Latin squares, finite projective planes, graph theory, Ramsey theory, coloring graphs and set systems, random variables, independence, expected value, standard deviation, and Chebyshev's and Chernoff's inequalities.
+Prerequisite(s): MATH 15900 or MATH 25400, or CMSC 27100, or by consent.
+Experience with mathematical proofs.
+Note(s): This course is offered in alternate years.
+Equivalent Course(s): MATH 28410
+
+
+
+CMSC 27500.
+Graph Theory.
+This course covers the basics of the theory of finite graphs.
+Topics include shortest paths, spanning trees, counting techniques, matchings, Hamiltonian cycles, chromatic number, extremal graph theory, Turan's theorem, planarity, Menger's theorem, the max-flow/min-cut theorem, Ramsey theory, directed graphs, strongly connected components, directed acyclic graphs, and tournaments.
+Techniques studied include the probabilistic method.
+Instructor(s): K.
+Mulmuley
+Prerequisite(s): CMSC 27100, or MATH 20400 or higher.
+CMSC 27502.
+Advanced Algorithms.
+TBD
+
+
+
+CMSC 27530.
+Honors Graph Theory.
+This course covers the basics of the theory of finite graphs.
+Topics include shortest paths, spanning trees, counting techniques, matchings, Hamiltonian cycles, chromatic number, extremal graph theory, Turan's theorem, planarity, Menger's theorem, the max-flow/min-cut theorem, Ramsey theory, directed graphs, strongly connected components, directly acyclic graphs, and tournaments.
+Techniques studied include the probabilistic method.
+Instructor(s): Laszlo Babai     Terms Offered: Spring
+Prerequisite(s): CMSC 27100, CMSC 27130, or CMSC 37110, or MATH 20400 or MATH 20800.
+Equivalent Course(s): MATH 28530
+
+
+
+CMSC 27620.
+Introduction to Bioinformatics.
+This course aims to introduce computer scientists to the field of bioinformatics.
+The vast amounts of data produced in genomics related research has significantly transformed the role of biological research.
+High-throughput automated biological experiments require advanced algorithms, implemented in high-performance computing systems, to interpret their results.
+This course will focus on analyzing complex data sets in the context of biological problems.
+Students will design and implement systems that are reliable, capable of handling huge amounts of data, and utilize best practices in interface and usability design to accomplish common bioinformatics problems.
+While this course should be of interest for students interested in biological sciences and biotechnology, techniques and approaches taught will be applicable to other fields.
+This course will present a practical, hands-on approach to the field of bioinformatics.
+The topics covered in this course will include software, data mining, high-performance computing, mathematical models and other areas of computer science that play an important role in bioinformatics.
+Existing methods for analyzing genomes, sequences and protein structures will be explored, as well related computing infrastructure.
+Students will be introduced to all of the biology necessary to understand the applications of bioinformatics algorithms and software taught in this course.
+No previous biology coursework is required or expected.
+Terms Offered: Autumn
+Prerequisite(s): (CMSC 12200 or CMSC 15200 or CMSC 16200) and (CMSC 27200 or CMSC 27230 or CMSC 37000)
+
+
+
+CMSC 27700-27800.
+Mathematical Logic I-II.
+Mathematical Logic I-II
+CMSC 27700.
+Mathematical Logic I.
+This course introduces mathematical logic.
+We also discuss the Gödel completeness theorem, the compactness theorem, and applications of compactness to algebraic problems.
+Terms Offered: Autumn
+Prerequisite(s): MATH 25400 or 25700; open to students who are majoring in computer science who have taken CMSC 15400 along with MATH 16300 or MATH 16310 or Math 15910 or MATH 15900 or MATH 19900
+Equivalent Course(s): MATH 27700
+
+
+CMSC 27800.
+Mathematical Logic II.
+Terms Offered: Winter
+Prerequisite(s): MATH 27700 or equivalent
+Equivalent Course(s): MATH 27800
+
+
+
+
+CMSC 28000.
+Introduction to Formal Languages.
+This course is a basic introduction to computability theory and formal languages.
+Topics include automata theory, regular languages, context-free languages, and Turing machines.
+Instructor(s): S.
+Kurtz     Terms Offered: Spring
+Prerequisite(s): CMSC 12300 or CMSC 15400, or MATH 15900 or MATH 25500.
+Equivalent Course(s): MATH 28000
+
+
+
+CMSC 28100.
+Introduction to Complexity Theory.
+This course introduces complexity theory.
+Relationships between space and time, determinism and non-determinism, NP-completeness, and the P versus NP question are investigated.
+Prerequisite(s): CMSC 27200 or CMSC 27230 or CMSC 37000, or MATH 15900 or MATH 15910 or MATH 16300 or MATH 16310 or MATH 19900 or MATH 25500; experience with mathematical proofs.
+Equivalent Course(s): MATH 28100
+
+
+
+CMSC 28130.
+Honors Introduction to Complexity Theory.
+This course introduces complexity theory.
+Relationships between space and time, determinism and non-determinism, NP-completeness, and the P versus NP question are investigated.
+Instructor(s): Ketan Mulmuley     Terms Offered: Autumn
+Prerequisite(s): CMSC 27100 or CMSC 27130, or MATH 15900 or MATH 19900 or MATH 25500; experience with mathematical proofs.
+CMSC 28400.
+Introduction to Cryptography.
+Cryptography is the use of algorithms to protect information from adversaries.
+Though its origins are ancient, cryptography now underlies everyday technologies including the Internet, wifi, cell phones, payment systems, and more.
+This course is an introduction to the design and analysis of cryptography, including how "security" is defined, how practical cryptographic algorithms work, and how to exploit flaws in cryptography.
+The course will cover algorithms for symmetric-key and public-key encryption, authentication, digital signatures, hash functions, and other primitives.
+Weekly problem sets will include both theoretical problems and programming tasks.
+No experience in security is required.
+Prerequisite(s): CMSC 15400 and (CMSC 27100 or CMSC 27130 or CMSC 37110)
+
+
+
+CMSC 28510.
+Introduction to Scientific Computing.
+Basic processes of numerical computation are examined from both an experimental and theoretical point of view.
+This course deals with numerical linear algebra, approximation of functions, approximate integration and differentiation, Fourier transformation, solution of nonlinear equations, and the approximate solution of initial value problems for ordinary differential equations.
+We concentrate on a few widely used methods in each area covered.
+Instructor(s): T.
+Dupont     Terms Offered: Autumn.
+Generally offered alternate years.
+Prerequisite(s): A year of calculus (MATH 15300 or higher), a quarter of linear algebra (MATH 19620 or higher), and CMSC 10600 or higher; or consent of instructor
+
+
+
+CMSC 28515.
+Introduction to Numerical Partial Differential Equations.
+This course deals with finite element and finite difference methods for second-order elliptic equations (diffusion) and the associated parabolic and hyperbolic equations.
+Some methods for solving linear algebraic systems will be used.
+Scalar first-order hyperbolic equations will be considered.
+CMSC 28540.
+Numerical Methods.
+This is a practical programming course focused on the basic theory and efficient implementation of a broad sampling of common numerical methods.
+Each topic will be introduced conceptually followed by detailed exercises focused on both prototyping (using matlab) and programming the key foundational algorithms efficiently on modern (serial and multicore) architectures.
+The ideal student in this course would have a strong interest in the use of computer modeling as predictive tool in a range of discplines -- for example risk management, optimized engineering design, safety analysis, etc.
+The numerical methods studied in this course underlie the modeling and simulation of a huge range of physical and social phenomena, and are being put to increasing use to an increasing extent in industrial applications.
+After successfully completing this course, a student should have the necessary foundation to quickly gain expertise in any application-specific area of computer modeling.
+Terms Offered: Spring
+Prerequisite(s): CMSC 15200 or CMSC 16200.
+Basic apprehension of calculus and linear algebra is essential
+
+
+
+CMSC 29512.
+Entrepreneurship in Technology.
+Many of the most successful companies have been created by technologists, but many technologists fail to consider entrepreneurship as a viable career pathway because it is difficult to gain exposure to entrepreneurship.
+Students in this class will experience, firsthand, new product development based on an idea conceived of by your group.
+Your group will nurture your idea by clearly defining your product, obtaining market feedback, building an initial proof-of-concept, and pitching to investors.
+While there is no requirement that your product become a new technology venture, this class is meant to serve as a launchpad for the first three months of a startup for those interested in pursuing their ideas further.
+The fundamental belief, however, is that the entrepreneurial experience provided in this class can support you whether you develop new products in your large corporate enterprise or do pursue entrepreneurship in a startup of your own, and all students are encouraged to consider this course no matter your career trajectory or level of technical proficiency.
+Prerequisite(s): MPCS 51036 or 51040 or 51042 or 51046 or 51100
+Note(s): If an undergraduate takes this course as CMSC 29512, it may not be used for CS major or minor credit.
+Non-MPCS students must receive approval from program prior to registering.
+Sustainability and Computing.
+Once a darling of the economy, the computing industry has come under fire as "techlash" brings a spotlight to its negative environmental and societal impacts.
+We focus on understanding computing's environmental impact, and the productive and substantial (not greenwashing) actions that can be taken to reduce it.
+The objective of this course is to expose students to a sophisticated view of how computing affects the environment, and how it can become more sustainable through action in several dimensions, including technology invention and design, business/ecosystem structure, individual and government action.
+Students will be empowered with the intellectual tools to understand and act with insight on these issues in their professional careers.
+Instructor(s): Chien
+Prerequisite(s): Students must be in their third or fourth year of study.
+Equivalent Course(s): ENST 29520, CEGU 29520, BPRO 29520, CMSC 39520
+
+
+
+CMSC 29700.
+Reading and Research in Computer Science.
+Students do reading and research in an area of computer science under the guidance of a faculty member.
+A written report is typically required.
+Terms Offered: Autumn,Spring,Summer,Winter
+Prerequisite(s): By consent of instructor and approval of department counselor.
+Note(s): Open both to students who are majoring in Computer Science and to nonmajors.
+Students are required to submit the College Reading and Research Course Form.
+CMSC 29900.
+Bachelor's Thesis.
+Open to fourth-year students.
+Terms Offered: Autumn
+Spring
+Summer
+Winter
+Prerequisite(s): By consent of instructor and approval of department counselor.
+Download PDF of this pageThe PDF will include all information unique to this page.
