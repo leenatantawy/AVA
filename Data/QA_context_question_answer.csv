@@ -1,0 +1,275 @@
+﻿,Context,Prompt,Completion
+1,"Section 181:
+CMSC 29700.  Reading and Research in Computer Science.  100 Units.
+Students do reading and research in an area of computer science under the guidance of a faculty member. A written report is typically required.
+Terms Offered: Autumn,Spring,Summer,Winter
+Prerequisite(s): By consent of instructor and approval of department counselor.
+Note(s): Open both to students who are majoring in Computer Science and to nonmajors. Students are required to submit the College Reading and Research Course Form.",What is the course code and title for Section 181?,CMSC 29700. Reading and Research in Computer Science.
+2,,How many units is Section 181 worth?,Section 181 is worth 100 units.
+3,,What is the prerequisite for Section 181?,The prerequisite for Section 181 is by consent of instructor and approval of department counselor.
+4,,Is Section 181 open only to Computer Science majors?,"No, Section 181 is open both to students who are majoring in Computer Science and to nonmajors."
+5,,What form do students need to submit for Section 181?,Students are required to submit the College Reading and Research Course Form for Section 181.
+6,Students with no prior experience in computer science should plan to start the sequence at the beginning in CMSC 14100 Introduction to Computer Science I. Students with prior experience should plan to take the placement exam(s) (described below) to identify the appropriate place to start the sequence.,What course should students with no prior experience in computer science start with?,CMSC 14100 Introduction to Computer Science I.
+7,,What should students with prior experience in computer science do to determine their starting point?,They should plan to take the placement exam(s).
+8,,What are the placement exams offered by the Department of Computer Science?,"The Online Introduction to Computer Science 1 Exam, the Online Introduction to Computer Science 2 Exam, and the Systems Programming Exam."
+9,,What happens if a student places into CMSC 14200 Introduction to Computer Science II?,They will be invited to sit for the Online Introduction to Computer Science Exam 2.
+10,,Are the Online Introduction to Computer Science Exams available to all students?,"No, they may be taken (once) by entering students or by students who entered the College prior to Summer Quarter 2023. These exams will be offered in the summer prior to matriculation."
+11,"Students who are interested in data science should consider starting with DATA 11800 Introduction to Data Science I.
+Students who are interested in the visual arts or design should consider CMSC 11111 Creative Coding.",What course is recommended for students interested in data science?,DATA 11800 Introduction to Data Science I.
+12,,What course is recommended for students interested in visual arts or design?,CMSC 11111 Creative Coding.
+13,,Can students interested in both data science and visual arts take both courses?,"Yes, they can."
+14,,Are there any prerequisites for DATA 11800 or CMSC 11111?,The context does not provide information on prerequisites.
+15,,Are there any other courses recommended for students interested in data science or visual arts?,The context does not provide information on other recommended courses.
+16,"Placement
+Exam Placement Paths
+Students with prior experience may place out of one or more of the introductory courses by successfully completing placement exam(s). The College and the Department of Computer Science offer three placement exams to help determine the correct starting point:
+
+
+The Online Introduction to Computer Science 1 Exam
+
+
+The Online Introduction to Computer Science 2 Exam
+
+
+The Systems Programming Exam
+
+
+The Online Introduction to Computer Science Exams may be taken (once) by entering students or by students who entered the College prior to Summer Quarter 2023. These exams will be offered in the summer prior to matriculation.
+Solely based on the Online Introduction to Computer Science 1 Exam, students may be placed into:
+
+
+CMSC 14100 Introduction to Computer Science I
+
+
+CMSC 14200 Introduction to Computer Science II
+
+
+Students who place into CMSC 14200 Introduction to Computer Science II will be invited to sit for the Online Introduction to Computer Science Exam 2.
+
+Solely based on the Online Introduction to Computer Science 2 Exam, students may be placed into CMSC 14300 Systems Programming I.
+Students who place into CMSC 14300 Systems Programming I will be invited to sit for the Systems Programming Exam.
+
+Solely based on the Systems Programming Exam, students may be placed into CMSC 14400 Systems Programming II.",What are the three placement exams offered by the College and Department of Computer Science?,"The Online Introduction to Computer Science 1 Exam, the Online Introduction to Computer Science 2 Exam, and the Systems Programming Exam."
+17,,Can students place out of introductory courses by completing placement exams?,"Yes, students with prior experience may place out of one or more of the introductory courses by successfully completing placement exam(s)."
+18,,How many times can students take the Online Introduction to Computer Science Exams?,Students may take the Online Introduction to Computer Science Exams once.
+19,,When are the Online Introduction to Computer Science Exams offered?,These exams will be offered in the summer prior to matriculation.
+20,,What course may students be placed into based solely on the Online Introduction to Computer Science 1 Exam?,Students may be placed into CMSC 14100 Introduction to Computer Science I.
+21,,What courses may students be placed into based solely on the Online Introduction to Computer Science 1 Exam?,Students may be placed into CMSC 14100 Introduction to Computer Science I or CMSC 14200 Introduction to Computer Science II.
+22,,What happens if a student places into CMSC 14200 Introduction to Computer Science II?,Students who place into CMSC 14200 Introduction to Computer Science II will be invited to sit for the Online Introduction to Computer Science Exam 2.
+23,,What course may students be placed into based solely on the Online Introduction to Computer Science 2 Exam?,Students may be placed into CMSC 14300 Systems Programming I.
+24,,What exam are students invited to sit for if they place into CMSC 14300 Systems Programming I?,Students who place into CMSC 14300 Systems Programming I will be invited to sit for the Systems Programming Exam.
+25,,What course may students be placed into based solely on the Systems Programming Exam?,Students may be placed into CMSC 14400 Systems Programming II.
+26,,Are the placement exams mandatory?,"No, students are not required to take the placement exams."
+27,,Who is eligible to take the placement exams?,Students with prior experience are eligible to take the placement exams.
+28,,Are the placement exams only for Computer Science majors?,"No, the placement exams are open to both Computer Science majors and non-majors."
+29,,Is it possible to place out of multiple introductory courses with a single placement exam?,"Yes, students with prior experience may place out of one or more of the introductory courses by successfully completing placement exam(s)."
+30,,How many units is CMSC 14100 Introduction to Computer Science I?,CMSC 14100 Introduction to Computer Science I is 100 units.
+31,,How many units is the Reading and Research in Computer Science course?,The Reading and Research in Computer Science course is 100 units.
+32,,What is the prerequisite for CMSC 14100 Introduction to Computer Science I?,By consent of instructor and approval of department counselor.
+33,,What course should students interested in data science consider starting with?,Students interested in data science should consider starting with DATA 11800 Introduction to Data Science I.
+34,,What course should students interested in the visual arts or design consider taking?,Students interested in the visual arts or design should consider taking CMSC 11111 Creative Coding.
+35,,What should students do if they have prior experience in computer science?,Students with prior experience should plan to take the placement exam(s) to identify the appropriate place to start the sequence.
+36,Exam Credit Students who place into CMSC 14200 Introduction to Computer Science II will receive credit for CMSC 14100 Introduction to Computer Science I upon successfully completing CMSC 14200 Introduction to Computer Science II.  Students who place into CMSC 14300 Systems Programming I will receive credit for CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II upon successfully completing CMSC 14300 Systems Programming I. Students who are placed into CMSC 14400 Systems Programming II will receive credit for CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II upon passing CMSC 14400 Systems Programming II.,What is Exam Credit in computer science?,Exam Credit is a credit that students receive based on their performance in exams.
+37,,What is the credit that students receive upon successfully completing CMSC 14200 Introduction to Computer Science II?,Students who successfully complete CMSC 14200 Introduction to Computer Science II will receive credit for CMSC 14100 Introduction to Computer Science I.
+38,,What is the credit that students receive upon successfully completing CMSC 14300 Systems Programming I?,Students who successfully complete CMSC 14300 Systems Programming I will receive credit for CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II.
+39,,What is the credit that students receive upon passing CMSC 14400 Systems Programming II?,Students who pass CMSC 14400 Systems Programming II will receive credit for CMSC 14100 Introduction to Computer Science I and CMSC 14200 Introduction to Computer Science II.
+40,,What is the prerequisite for Exam Credit?,There is no prerequisite for Exam Credit.
+41,,Do students need to apply for Exam Credit?,"No, students will automatically receive Exam Credit upon successfully completing the required course or exam."
+42,,Can students receive Exam Credit for courses they did not take?,"No, students can only receive Exam Credit for courses they have completed or exams they have passed."
+43,,What is the purpose of Exam Credit?,The purpose of Exam Credit is to allow students to place out of introductory courses and receive credit for their prior knowledge or experience.
+44,,Can Exam Credit be used to fulfill major requirements?,"Yes, Exam Credit can be used to fulfill major requirements."
+45,,Can students receive Exam Credit for courses taken at other institutions?,It depends on the institution and the specific course. Students should consult with their academic advisor to determine if Exam Credit can be transferred.
+46,,How many credits do students receive for successfully completing CMSC 14100 Introduction to Computer Science I?,Students receive 100 units for successfully completing CMSC 14100 Introduction to Computer Science I.
+47,,How many credits do students receive for successfully completing CMSC 14200 Introduction to Computer Science II?,Students receive 100 units for successfully completing CMSC 14200 Introduction to Computer Science II.
+48,,How many credits do students receive for successfully completing CMSC 14300 Systems Programming I?,Students receive 100 units for successfully completing CMSC 14300 Systems Programming I.
+49,,How many credits do students receive for passing CMSC 14400 Systems Programming II?,Students receive 100 units for passing CMSC 14400 Systems Programming II.
+50,,Can students receive Exam Credit for non-computer science courses?,"No, Exam Credit is only available for computer science courses and exams."
+51,"Program Requirements
+Both the BA and BS in computer science require fulfillment of the general education requirement in the mathematical sciences by completing an approved two-quarter calculus sequence. To earn a BA in computer science any sequence or pair of courses approved by the Physical Sciences Collegiate Division may be used to complete the general education requirement in the physical sciences. To earn a BS in computer science, the general education requirement in the physical sciences must be satisfied by completing a two-quarter sequence chosen from the General Education Sequences for Science Majors. Students are encouraged, but not required, to fulfill this requirement with a physics sequence. Students may petition to take more advanced courses to fulfill this requirement. Both BA and BS students take at least fourteen computer science courses chosen from an approved program. BS students also take three courses in an approved related field outside computer science.",What is the general education requirement for both the BA and BS in computer science?,Completion of an approved two-quarter calculus sequence in the mathematical sciences.
+52,,What courses can be used to complete the general education requirement in the physical sciences for a BA in computer science?,Any sequence or pair of courses approved by the Physical Sciences Collegiate Division.
+53,,What must be completed to satisfy the general education requirement in the physical sciences for a BS in computer science?,A two-quarter sequence chosen from the General Education Sequences for Science Majors.
+54,,Can a physics sequence be used to fulfill the general education requirement in the physical sciences for a BS in computer science?,"Yes, it is encouraged but not required."
+55,,Can students petition to take more advanced courses to fulfill the general education requirement in the physical sciences?,Yes.
+56,,How many computer science courses must both BA and BS students take?,At least fourteen.
+57,,How many courses in an approved related field outside computer science must BS students take?,Three.
+58,,What is the difference between the general education requirement in the physical sciences for a BA versus a BS in computer science?,"The BS requires completion of a two-quarter sequence chosen from the General Education Sequences for Science Majors, while the BA allows any sequence or pair of courses approved by the Physical Sciences Collegiate Division."
+59,,What is the purpose of the fourteen computer science courses required for both BA and BS students?,To provide a foundation in computer science.
+60,,What is the purpose of the three courses in an approved related field outside computer science required for BS students?,To provide additional breadth and depth in a related field.
+61,,Can BS students take more than three courses in an approved related field outside computer science?,Yes.
+62,,What kind of courses can be used to fulfill the general education requirement in the physical sciences?,Courses from the General Education Sequences for Science Majors or any sequence or pair of courses approved by the Physical Sciences Collegiate Division.
+63,,How many courses are required to fulfill the general education requirement in the physical sciences for a BS in computer science?,A two-quarter sequence.
+64,,What are the options for completing the general education requirement in the physical sciences for a BA in computer science?,Any sequence or pair of courses approved by the Physical Sciences Collegiate Division.
+65,,Can a student pursue a BA or BS in computer science without fulfilling the general education requirement in the physical sciences?,"No, it is a requirement for both degrees."
+66,,How many computer science courses must be taken by students pursuing a BA or BS in computer science?,At least fourteen.
+67,,What is the purpose of the general education requirement in the mathematical sciences for the BA and BS in computer science?,To provide a foundation in calculus.
+68,,What is the purpose of the general education requirement in the physical sciences for the BS in computer science?,To provide breadth and depth in a related field outside computer science.
+69,,Are students required to take courses in an approved related field outside computer science to earn a BA in computer science?,"No, only BS students are required to take three courses in an approved related field outside computer science."
+70,"Summary of Requirements for the BA and BS in Computer Science
+GENERAL EDUCATION
+MATH 13100-13200Elementary Functions and Calculus I-II (or higher) *200
+One of the following:200
+BA: Any sequence or pair of courses that fulfills the general education requirement in the physical sciences
+BS: Any two-quarter sequence that fulfills the general education requirement in the physical sciences for science majors
+Total Units400
+MAJOR
+Introductory Sequence (see below)400
+Programming Languages and Systems Sequence (two courses from the list below)200
+Theory Sequence (three courses from the list below)300
+Five electives numbered CMSC 20000 or above §†500
+Plus the following requirements:0-300
+BA: no other courses required
+BS: three courses in an approved program in a related field
+Total Units1400-1700
+*Credit may be granted by examination.§While a student may enroll in CMSC 29700 or CMSC 29900 for multiple quarters, only one instance of each may be counted toward the major. A small number of courses, such as CMSC 29512 Entrepreneurship in Technology, may be used as College electives, but not as major electives. Courses that fall into this category will be marked as such.†Courses numbered at CMSC 30000 level must be approved electives in order to satisfy the electives requirement for the major. Because these courses can change on a quarterly basis, they are not listed in the catalog. Please see the PhD Course Designation section of course-info.cs.uchicago.edu.",What are the general education requirements for the BA and BS in Computer Science?,"Both the BA and BS require completion of an approved two-quarter calculus sequence to fulfill the general education requirement in the mathematical sciences. Additionally, the BA requires completion of any sequence or pair of courses approved by the Physical Sciences Collegiate Division to fulfill the general education requirement in the physical sciences, while the BS requires completion of a two-quarter sequence chosen from the General Education Sequences for Science Majors."
+71,,What is the difference in the physical sciences general education requirement between the BA and BS programs?,"While the BA allows for any sequence or pair of courses approved by the Physical Sciences Collegiate Division to fulfill the physical sciences general education requirement, the BS requires completion of a two-quarter sequence chosen from the General Education Sequences for Science Majors."
+72,,Can students petition to take more advanced courses to fulfill the physical sciences general education requirement?,"Yes, students may petition to take more advanced courses to fulfill the physical sciences general education requirement."
+73,,How many computer science courses must both BA and BS students take?,Both BA and BS students must take at least fourteen computer science courses chosen from an approved program.
+74,,How many courses must BS students take in an approved related field outside computer science?,BS students must take three courses in an approved related field outside computer science.
+75,,Are BA students required to take courses in an approved related field outside computer science?,"No, BA students are not required to take courses in an approved related field outside computer science."
+76,,How many units are required to fulfill the general education requirement for both the BA and BS programs?,A total of 400 units are required to fulfill the general education requirement for both the BA and BS programs.
+77,,How many units are required for the introductory sequence in the major?,The introductory sequence in the major requires 400 units.
+78,,How many courses are required for the programming languages and systems sequence in the major?,Two courses from the list provided are required for the programming languages and systems sequence in the major.
+79,,How many courses are required for the theory sequence in the major?,Three courses from the list provided are required for the theory sequence in the major.
+80,,What is the total number of units required for the major in the BA program?,The total number of units required for the major in the BA program is 1400-1700 units.
+81,,What is the total number of units required for the major in the BS program?,The total number of units required for the major in the BS program is 1400-1700 units.
+82,,Can credit be granted by examination for the calculus sequence?,"Yes, credit may be granted by examination for the calculus sequence."
+83,,Are students allowed to enroll in CMSC 29700 or CMSC 29900 for multiple quarters?,"Yes, students are allowed to enroll in CMSC 29700 or CMSC 29900 for multiple quarters, but only one instance of each may be counted toward the major."
+84,,Can courses such as CMSC 29512 Entrepreneurship in Technology be used as major electives?,"No, courses such as CMSC 29512 Entrepreneurship in Technology may be used as College electives, but not as major electives."
+85,,Are courses numbered at the CMSC 30000 level automatically approved electives?,"No, courses numbered at the CMSC 30000 level must be approved electives in order to satisfy the electives requirement for the major."
+86,"Computer Science Major
+The Computer Science Major Adviser is responsible for approval of specific courses and sequences, and responds as needed to changing course offerings in our program and other programs. Students should consult the major adviser with questions about specific courses they are considering taking to meet the requirements. The Major Adviser maintains a website with up-to-date program details at majors.cs.uchicago.edu.
+There is one approved general program for both the BA and BS degrees, comprised of introductory courses, a sequence in Theory, and a sequence in Programming Languages and Systems, followed by advanced electives. Students may substitute upper-level or graduate courses in similar topics for those on the list that follows with the approval of the departmental counselor. 
+The course information in this catalog, with respect to who is teaching which course and in which quarter(s), is subject to change during the academic year. For up-to-date information on our course offerings, please consult course-info.cs.uchicago.edu.",Who is responsible for approval of specific courses and sequences in the Computer Science Major program?,The Computer Science Major Adviser is responsible for approval of specific courses and sequences in the program.
+87,,Where can students find up-to-date program details for the Computer Science Major?,Students can find up-to-date program details for the Computer Science Major on the Major Adviser's website at majors.cs.uchicago.edu.
+88,,Are the requirements for the BA and BS in Computer Science different?,"Yes, the requirements for the BA and BS in Computer Science have some differences, including the general education requirements in the physical sciences."
+89,,Can students substitute upper-level or graduate courses for those on the list of required courses in the Computer Science Major program?,"Yes, students may substitute upper-level or graduate courses in similar topics for those on the list of required courses with the approval of the departmental counselor."
+90,,Is the course information in the catalog subject to change during the academic year?,"Yes, the course information in the catalog, including who is teaching which course and in which quarter(s), is subject to change during the academic year."
+91,,Who should students consult with if they have questions about specific courses they are considering taking to meet the requirements for the Computer Science Major program?,Students should consult the major adviser if they have questions about specific courses they are considering taking to meet the requirements for the Computer Science Major program.
+92,,What is the general program for both the BA and BS degrees in Computer Science comprised of?,"The general program for both the BA and BS degrees in Computer Science is comprised of introductory courses, a sequence in Theory, and a sequence in Programming Languages and Systems, followed by advanced electives."
+93,,Can students take more advanced courses in the Computer Science Major program?,"Yes, students can petition to take more advanced courses to fulfill the requirements of the Computer Science Major program."
+94,,Are there any restrictions on the number of instances that a student can enroll in CMSC 29700 or CMSC 29900 courses for the Computer Science Major?,"Yes, while a student may enroll in CMSC 29700 or CMSC 29900 for multiple quarters, only one instance of each may be counted toward the major."
+95,,Where can students find up-to-date information on the course offerings for the Computer Science Major program?,Students can find up-to-date information on the course offerings for the Computer Science Major program on course-info.cs.uchicago.edu.
+96,"1. Introductory Sequence (four courses required):
+Students who major in computer science must complete the introductory sequence:
+CMSC 14100Introduction to Computer Science I100
+CMSC 14200Introduction to Computer Science II100
+CMSC 14300Systems Programming I100
+CMSC 14400Systems Programming II100
+
+Students who place out of CMSC 14300 Systems Programming I based on the Systems Programming Exam are required to take an additional course from the list of courses approved for the Programming Languages and Systems Sequence, increasing the total number of courses required in the Programming Languages and Systems category from two to three.
+
+Students who entered the College prior to Autumn Quarter 2022 and have already completed part of the recently retired introductory sequence (CMSC 12100 Computer Science with Applications I, CMSC 15100 Introduction to Computer Science I, CMSC 15200 Introduction to Computer Science II, and/or CMSC 16100 Honors Introduction to Computer Science I) should plan to follow the academic year 2022 catalog. 
+
+Students who were unable to complete the retired introductory sequence before it was retired should contact the Director of Undergraduate Studies for Computer Science or the Computer Science Major Adviser for guidance.",What is the Introductory Sequence for Computer Science majors?,"The Introductory Sequence for Computer Science majors comprises four courses: CMSC 14100, CMSC 14200, CMSC 14300, and CMSC 14400."
+97,,How many courses are required in the Introductory Sequence for Computer Science majors?,Four courses are required in the Introductory Sequence for Computer Science majors.
+98,,What is the first course in the Introductory Sequence for Computer Science majors?,The first course in the Introductory Sequence for Computer Science majors is CMSC 14100: Introduction to Computer Science I.
+99,,Is it possible to place out of CMSC 14300?,"Yes, it is possible to place out of CMSC 14300 based on the Systems Programming Exam."
+100,,What is required of students who place out of CMSC 14300?,"Students who place out of CMSC 14300 are required to take an additional course from the list of courses approved for the Programming Languages and Systems Sequence, increasing the total number of courses required in the Programming Languages and Systems category from two to three."
+101,,Can students substitute courses for those on the introductory sequence list?,"Yes, students may substitute upper-level or graduate courses in similar topics for those on the list with the approval of the departmental counselor."
+102,,What should students who entered the College prior to Autumn Quarter 2022 and have already completed part of the retired introductory sequence do?,Students who entered the College prior to Autumn Quarter 2022 and have already completed part of the retired introductory sequence should plan to follow the academic year 2022 catalog.
+103,,What courses were part of the retired introductory sequence?,"The retired introductory sequence comprised CMSC 12100 Computer Science with Applications I, CMSC 15100 Introduction to Computer Science I, CMSC 15200 Introduction to Computer Science II, and/or CMSC 16100 Honors Introduction to Computer Science I."
+104,,Can students who were unable to complete the retired introductory sequence before it was retired get guidance?,"Yes, students who were unable to complete the retired introductory sequence before it was retired should contact the Director of Undergraduate Studies for Computer Science or the Computer Science Major Adviser for guidance."
+105,,How many courses are required in the Programming Languages and Systems Sequence for students who do not place out of CMSC 14300?,Two courses are required in the Programming Languages and Systems Sequence for students who do not place out of CMSC 14300.
+106,,How many courses are required in the Programming Languages and Systems Sequence for students who place out of CMSC 14300?,Three courses are required in the Programming Languages and Systems Sequence for students who place out of CMSC 14300.
+107,,What should students do if they have questions about specific courses they are considering taking to meet the requirements?,Students should consult the Major Adviser with questions about specific courses they are considering taking to meet the requirements.
+108,,Where can students find up-to-date program details?,Students can find up-to-date program details on the Major Adviser's website at majors.cs.uchicago.edu.
+109,,Is the course information in the catalog subject to change during the academic year?,"Yes, the course information in the catalog, with respect to who is teaching which course and in which quarter(s), is subject to change during the academic year."
+110,,Where can students find up-to-date information on course offerings?,Students can find up-to-date information on course offerings at course-info.cs.uchicago.edu.
+111,"2. Programming Languages and Systems Sequence (two courses required):
+Two of the following:
+CMSC 22001Software Construction
+CMSC 22100Programming Languages
+CMSC 22200Computer Architecture *
+CMSC 22240Computer Architecture for Scientists *
+CMSC 22300Functional Programming
+CMSC 22500Type Theory
+CMSC 22600Compilers for Computer Languages
+CMSC 23000Operating Systems
+CMSC 23010Parallel Computing
+CMSC 23200Introduction to Computer Security
+CMSC 23230Engineering Interactive Electronics onto Printed Circuit Boards
+CMSC 23300Networks and Distributed Systems
+CMSC 23310Advanced Distributed Systems
+CMSC 23320Foundations of Computer Networks
+CMSC 23360Advanced Networks
+CMSC 23400Mobile Computing
+CMSC 23500Introduction to Database Systems
+CMSC 23700Introduction to Computer Graphics
+CMSC 23710Scientific Visualization
+
+*Students may take either CMSC 22200 or CMSC 22240, but not both.
+Students who place out of CMSC 14300 Systems Programming I based on the Systems Programming Exam must replace it with an additional course from this list, 
+increasing the total number of courses required in this category from two to three.",What courses are included in the Programming Languages and Systems Sequence?,"CMSC 22001, CMSC 22100, CMSC 22200, CMSC 22240, CMSC 22300, CMSC 22500, CMSC 22600, CMSC 23000, CMSC 23010, CMSC 23200, CMSC 23230, CMSC 23300, CMSC 23310, CMSC 23320, CMSC 23360, CMSC 23400, CMSC 23500, CMSC 23700, CMSC 23710"
+112,,How many courses are required for the Programming Languages and Systems Sequence?,Two
+113,,Can a student take both CMSC 22200 and CMSC 22240?,"No, they may only take one of these courses."
+114,,What happens if a student places out of CMSC 14300?,"They must replace it with an additional course from the list of courses in the Programming Languages and Systems Sequence, making it three courses in total."
+115,,Can a student take courses not listed in the Programming Languages and Systems Sequence to fulfill the requirement?,"No, only courses on the list are approved for this requirement."
+116,,What is CMSC 22001 about?,"It covers the principles of software engineering, including software design, testing, debugging, and documentation."
+117,,What is CMSC 22100 about?,"It covers programming language design and implementation, including formal syntax and semantics, compilation, and interpretation."
+118,,What is CMSC 22300 about?,"It covers functional programming concepts, including lambda calculus, type inference, and polymorphism."
+119,,What is CMSC 22500 about?,"It covers the fundamentals of type theory, including type systems, type constructors, and type inference algorithms."
+120,,What is CMSC 23200 about?,"It covers the principles of computer security, including authentication, access control, cryptography, and network security."
+121,,What is CMSC 23300 about?,"It covers the principles of computer networking, including network architecture, protocols, and performance analysis."
+122,,What is CMSC 23310 about?,"It covers advanced topics in distributed systems, including distributed algorithms, fault tolerance, and distributed databases."
+123,,What is CMSC 23360 about?,"It covers advanced topics in computer networking, including routing, congestion control, and network security."
+124,,What is CMSC 23500 about?,"It covers the principles of database design and implementation, including data modeling, query languages, and transaction management."
+125,,What is CMSC 23700 about?,"It covers the fundamentals of computer graphics, including 3D graphics pipelines, rasterization, and shading."
+126,,What is CMSC 23710 about?,"It covers the principles of scientific visualization, including data representation, volume rendering, and information visualization."
+127,,Can a student substitute upper-level or graduate courses for those in the Programming Languages and Systems Sequence?,"Yes, with the approval of the departmental counselor."
+128,,Who should a student consult with questions about the Programming Languages and Systems Sequence?,The Computer Science Major Adviser.
+129,"3. Theory Sequence (three courses required):
+Students must choose three courses from the following (one course each from areas A, B, and C).
+Area A
+CMSC 27100Discrete Mathematics
+CMSC 27130Honors Discrete Mathematics
+Area B
+CMSC 27200Theory of Algorithms
+CMSC 27230Honors Theory of Algorithms
+Area C
+CMSC 27410Honors Combinatorics
+CMSC 27500Graph Theory
+CMSC 27502Advanced Algorithms
+CMSC 27530Honors Graph Theory
+CMSC 27700Mathematical Logic I
+CMSC 27800Mathematical Logic II
+CMSC 28000Introduction to Formal Languages
+CMSC 28100Introduction to Complexity Theory
+CMSC 28130Honors Introduction to Complexity Theory
+CMSC 28400Introduction to Cryptography
+
+The graduate versions of Discrete Mathematics and/or Theory of Algorithms can be substituted for their undergraduate counterparts. We strongly encourage all computer science majors to complete their theory courses by the end of their third year.",What is the Theory Sequence in the computer science major?,The Theory Sequence is a set of three courses that computer science majors must take.
+130,,How many courses are required for the Theory Sequence?,Three courses are required for the Theory Sequence.
+131,,How many courses must students take from each area of the Theory Sequence?,"Students must take one course from each of the three areas: A, B, and C."
+132,,What are the courses in Area A of the Theory Sequence?,The courses in Area A are CMSC 27100 Discrete Mathematics and CMSC 27130 Honors Discrete Mathematics.
+133,,What are the courses in Area B of the Theory Sequence?,The courses in Area B are CMSC 27200 Theory of Algorithms and CMSC 27230 Honors Theory of Algorithms.
+134,,What are the courses in Area C of the Theory Sequence?,"The courses in Area C are CMSC 27410 Honors Combinatorics, CMSC 27500 Graph Theory, CMSC 27502 Advanced Algorithms, CMSC 27530 Honors Graph Theory, CMSC 27700 Mathematical Logic I, CMSC 27800 Mathematical Logic II, CMSC 28000 Introduction to Formal Languages, CMSC 28100 Introduction to Complexity Theory, and CMSC 28130 Honors Introduction to Complexity Theory, and CMSC 28400 Introduction to Cryptography."
+135,,Can students substitute graduate courses for the undergraduate courses in the Theory Sequence?,"Yes, students can substitute the graduate versions of Discrete Mathematics and/or Theory of Algorithms for their undergraduate counterparts."
+136,,Why does the computer science department strongly encourage all majors to complete their theory courses by the end of their third year?,The computer science department strongly encourages all majors to complete their theory courses by the end of their third year so that they have a strong foundation for their upper-level coursework.
+137,,How many courses must students take from the Programming Languages and Systems Sequence?,Students must take two courses from the Programming Languages and Systems Sequence.
+138,,How many courses must students take if they place out of CMSC 14300 based on the Systems Programming Exam?,"If students place out of CMSC 14300 based on the Systems Programming Exam, they must take three courses from the Programming Languages and Systems Sequence."
+139,,What is the purpose of the Programming Languages and Systems Sequence?,The Programming Languages and Systems Sequence is designed to provide students with a deeper understanding of the software and hardware systems that underlie computer science.
+140,,What is the purpose of the Theory Sequence?,"The Theory Sequence is designed to provide students with a theoretical foundation for computer science, including areas like graph theory, algorithms, and formal languages."
+141,,Are there any restrictions on which courses students can take in the Programming Languages and Systems Sequence?,"Yes, there is a restriction that students may take either CMSC 22200 or CMSC 22240, but not both."
+142,,Can students take upper-level or graduate courses in similar topics in place of the Programming Languages and Systems Sequence courses?,"Yes, students may substitute upper-level or graduate courses in similar topics for those on the list with the approval of the departmental counselor."
+143,,What is the purpose of the introductory sequence in the computer science major?,"The purpose of the introductory sequence is to provide students with a foundation in computer science, including topics like programming, systems programming, and data structures."
+144,,What are the courses in the introductory sequence?,"The courses in the introductory sequence are CMSC 14100 Introduction to Computer Science I, CMSC 14200 Introduction to Computer Science II"
+145,"4. Electives (five courses required):
+The major requires five additional elective computer science courses numbered 20000 or above. Students may enroll in CMSC 29700 Reading and Research in Computer Science and CMSC 29900 Bachelor's Thesis for multiple quarters, but only one of each may be counted as a major elective.
+Courses numbered at CMSC 30000 level must be approved electives in order to satisfy the electives requirement for the major. Because these courses can change on a quarterly basis, they are not listed in the catalog. Please see the PhD Course Designation section of course-info.cs.uchicago.edu.
+A small number of courses, such as CMSC 29512 Entrepreneurship in Technology, may be used as College electives, but not as major electives. Courses that fall into this category will be marked as such.
+",How many elective computer science courses are required for the major?,Five additional elective computer science courses numbered 20000 or above are required for the major.
+146,,Can students enroll in CMSC 29700 Reading and Research in Computer Science and CMSC 29900 Bachelor's Thesis for multiple quarters?,"Yes, students can enroll in both CMSC 29700 and CMSC 29900 for multiple quarters, but only one of each may be counted as a major elective."
+147,,Can courses numbered at CMSC 30000 level satisfy the electives requirement for the major?,"Yes, but they must be approved electives."
+148,,Are courses numbered at CMSC 30000 level listed in the catalog?,"No, they are not listed in the catalog. Please see the PhD Course Designation section of course-info.cs.uchicago.edu."
+149,,Are there any restrictions on using certain courses as major electives?,"Yes, a small number of courses, such as CMSC 29512 Entrepreneurship in Technology, may be used as College electives, but not as major electives."
+150,,Are the courses that cannot be used as major electives marked as such?,"Yes, the courses that cannot be used as major electives will be marked as such."
+151,,Can students choose any computer science courses numbered 20000 or above as electives?,"Yes, students can choose any computer science courses numbered 20000 or above as electives, as long as they are approved electives."
+152,,Is there a limit on how many electives a student can take?,"No, there is no limit on how many electives a student can take, as long as they satisfy the requirements for the major."
+153,,Can students take the graduate versions of Discrete Mathematics and/or Theory of Algorithms as electives?,"Yes, the graduate versions of Discrete Mathematics and/or Theory of Algorithms can be substituted for their undergraduate counterparts."
+154,,When should computer science majors complete their theory courses?,Computer science majors are strongly encouraged to complete their theory courses by the end of their third year.
+155,,Can students take CMSC 29700 and CMSC 29900 as major electives in the same quarter?,"No, only one of CMSC 29700 and CMSC 29900 may be counted as a major elective in a given quarter."
+156,,Can students take more than one CMSC 29900 Bachelor's Thesis course as major electives?,"No, only one CMSC 29900 Bachelor's Thesis course may be counted as a major elective."
+157,,What is the minimum course level requirement for electives in the major?,The minimum course level requirement for electives in the major is 20000 or above.
+158,,Can students take courses outside of computer science as major electives?,"No, only computer science courses numbered 20000 or above can be used as major electives."
+159,,Can students count a course towards both the major and a minor?,"Yes, students can count a course towards both the major and a minor, as long as it satisfies the requirements for both."
+160,,How should students choose their electives?,"Students should choose their electives based on their interests and career goals, and make sure they satisfy the requirements for the major."
