@@ -108,4 +108,10 @@ def question_answer(question, text):
     if answer.startswith("[CLS]"):
         answer = "Unable to find the answer to your question."
     
-    print("\nPredicted answer:\n{}".format(answer.capitalize()))
+    print("\nAnswer:\n{}".format(answer.capitalize()))
+
+text = "Students with no prior experience in computer science should plan to start the sequence at the beginning in CMSC 14100 Introduction to Computer Science I. Students with prior experience should plan to take the placement exam(s) (described below) to identify the appropriate place to start the sequence."
+
+question = "What course should students with no prior experience in computer science start with?"
+
+question_answer(question, text)
