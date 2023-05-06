@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
         <div className="container text-center">
-          <p>&copy; Chatty 2020.</p>
+          <p>&copy; AVA 2023.</p>
         </div>
     </footer>
   )

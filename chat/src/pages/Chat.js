@@ -50,11 +50,11 @@ export default class Chat extends Component {
     console.log("Calling the OpenAI API");
     
     const APIBody = {
-      "model": "davinci:ft-personal-2023-03-21-14-31-01",
+      "model": "davinci:ft-personal-2023-05-05-05-53-08",
       "prompt": prompt,
-      "temperature": 0,
+      "temperature": 0.7,
       "max_tokens": 60,
-      "top_p": 1.0,
+      "top_p":0.47,
       "frequency_penalty": 0.0,
       "presence_penalty": 0.0
     }
@@ -72,7 +72,7 @@ export default class Chat extends Component {
       }
       return response.json();
     }).then((data) => {
-      window.alert(data.choices[0].text);
+      window.alert(data.choices[0].text.split("\n\n")[0]);
       console.log(data.choices[0].text);
     }).catch((error) => {
       console.error(error);

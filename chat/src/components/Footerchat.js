@@ -4,7 +4,7 @@ function Footerchat() {
   return (
     <footer>
         <div className="container text-center">
-          <p>&copy; Chatty 2020.</p>
+          <p>&copy; AVA 2023.</p>
           <div className="py-5 mx-3">
             Login in as: <strong className="text-info">{this.state.user.email}</strong>
 
