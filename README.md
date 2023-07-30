@@ -17,33 +17,11 @@ AVA stands for "Advanced Virtual Advising", an ML-based platform that leverage A
 ## Technologies
 
 The project was developed using:
-- Python 3.8
-- Tensorflow 2.5
-- NLTK 3.6
-- Google Cloud API
-- Flask 2.0
-
-## Setup
-
-To run this project, please follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/YiChiCanCode/UncommonHacks_AVA.git
-
-# Navigate into the repository
-cd UncommonHacks_AVA
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the React Page
-cd chat/src
-npm run
-```
+- Python
+- Firebase
+- React
 
 ## Usage
-
 You can use the AVA bot to get your question answered instantly.
 
 ## Contributing
